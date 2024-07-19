@@ -16,12 +16,13 @@ for url in urls:
     listings = soup.find_all('section', class_='listing-search-item')
 
     for listing in listings:
-
+        #city is the 3rd word of an address and I'm only interested in this data 
         address = listing.find('div', class_="listing-search-item__sub-title'").get_text(strip=True)
         address_parts = address.split()
         city = address_parts[2]
         cities.append(city)
 
+        #the true price only the first word. Important to know that price is per month
         price_whole = listing.find('div', class_='listing-search-item__price').get_text(strip=True)
         price_parts = price_whole.split()
         price = price_parts[0]
