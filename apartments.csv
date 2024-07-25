@@ -1,2113 +1,2099 @@
-,City,Price,Area,Rooms
-0,Amsterdam,"€4,500",223 m²,5 rooms
-1,Rotterdam,"€2,190",90 m²,3 rooms
-2,Aalsmeer,"€1,250",59 m²,3 rooms
-3,Roermond,"€1,791",64 m²,2 rooms
-4,Amsterdam,"€2,250",109 m²,3 rooms
-5,Den,"€2,995",175 m²,5 rooms
-6,Rotterdam,"€3,500",207 m²,7 rooms
-7,Utrecht,Price,25 m²,1 room
-8,Zutphen,"€1,250",104 m²,5 rooms
-9,Amsterdam,"€2,000",50 m²,2 rooms
-10,Muiderberg,"€2,350",137 m²,5 rooms
-11,Haarlem,"€2,350",83 m²,3 rooms
-12,Amsterdam,"€3,500",141 m²,5 rooms
-13,Eindhoven,"€2,150",165 m²,5 rooms
-14,Amsterdam,"€6,500",194 m²,6 rooms
-15,Rijsenhout,"€2,500",113 m²,5 rooms
-16,Alkmaar,€400,93 m²,4 rooms
-17,Eindhoven,"€1,428",71 m²,2 rooms
-18,Amsterdam,"€2,250",101 m²,3 rooms
-19,Enschede,€850,40 m²,2 rooms
-20,Amsterdam,"€3,950",143 m²,4 rooms
-21,Amsterdam,"€5,000",220 m²,6 rooms
-22,Enschede,€795,28 m²,2 rooms
-23,Heemstede,"€8,500",459 m²,14 rooms
-24,Amsterdam,"€2,200",56 m²,2 rooms
-25,Bloemendaal,"€4,000",128 m²,4 rooms
-26,Enschede,"€1,050",47 m²,2 rooms
-27,Terneuzen,"€1,375",109 m²,5 rooms
-28,Geldrop,"€3,495",130 m²,5 rooms
-29,Leiderdorp,"€2,500",130 m²,6 rooms
-30,Maastricht,"€1,105",70 m²,3 rooms
-31,Den,"€1,750",100 m²,3 rooms
-32,Amsterdam,"€4,500",223 m²,5 rooms
-33,Amsterdam,"€2,100",88 m²,2 rooms
-34,Amstelveen,"€2,400",140 m²,5 rooms
-35,Middelburg,"€1,250",90 m²,4 rooms
-36,Amsterdam,"€2,200",63 m²,3 rooms
-37,Leiden,"€1,428",40 m²,2 rooms
-38,Den,€918,71 m²,3 rooms
-39,Terheijden,"€1,395",90 m²,4 rooms
-40,Enschede,€890,35 m²,1 room
-41,Veldhoven,"€1,825",130 m²,4 rooms
-42,Maastricht,"€1,165",78 m²,3 rooms
-43,Middelburg,"€1,400",105 m²,4 rooms
-44,Tilburg,Price,123 m²,2 rooms
-45,Den,"€1,950",75 m²,3 rooms
-46,Amsterdam,"€2,700",100 m²,3 rooms
-47,Den,"€3,800",230 m²,8 rooms
-48,Leiden,"€1,495",41 m²,2 rooms
-49,Amsterdam,"€3,250",77 m²,3 rooms
-50,Amsterdam,"€2,399",100 m²,4 rooms
-51,Weert,€450,70 m²,2 rooms
-52,Den,€550,14 m²,1 room
-53,Eindhoven,"€1,700",88 m²,3 rooms
-54,Venray,"€1,438",60 m²,3 rooms
-55,Amsterdam,"€2,450",88 m²,3 rooms
-56,Amsterdam,"€2,350",88 m²,4 rooms
-57,Tilburg,"€1,050",35 m²,2 rooms
-58,Almere,"€1,750",64 m²,3 rooms
-59,Roermond,€525,86 m²,3 rooms
-60,Zaandam,"€2,350",126 m²,5 rooms
-61,Leiden,"€1,595",103 m²,2 rooms
-62,Den,"€1,100",50 m²,2 rooms
-63,Haarlem,"€1,400",46 m²,2 rooms
-64,Rotterdam,"€2,190",90 m²,3 rooms
-65,Amsterdam,"€2,100",88 m²,2 rooms
-66,Spijkenisse,"€1,375",68 m²,3 rooms
-67,Eindhoven,"€1,500",80 m²,2 rooms
-68,Haarlem,"€3,500",371 m²,6 rooms
-69,Enschede,€675,18 m²,1 room
-70,Zwolle,€935,80 m²,4 rooms
-71,Zwolle,€995,77 m²,4 rooms
-72,Maastricht,"€1,450",111 m²,4 rooms
-73,Helmond,"€1,950",329 m²,1 room
-74,Breda,"€1,390",70 m²,3 rooms
-75,Amsterdam,"€2,700",79 m²,3 rooms
-76,Den,"€6,500",215 m²,4 rooms
-77,Amsterdam,"€2,750",113 m²,4 rooms
-78,Echt,"€1,395",132 m²,4 rooms
-79,Utrecht,"€2,200",80 m²,3 rooms
-80,Rotterdam,"€1,257",56 m²,3 rooms
-81,Rotterdam,"€1,795",72 m²,3 rooms
-82,Sassenheim,"€1,150",82 m²,3 rooms
-83,Utrecht,"€2,150",87 m²,3 rooms
-84,Den,"€3,400",103 m²,5 rooms
-85,Den,"€2,750",118 m²,3 rooms
-86,Pijnacker,"€3,000",190 m²,6 rooms
-87,Amsterdam,"€2,550",101 m²,4 rooms
-88,Amsterdam,"€2,950",150 m²,4 rooms
-89,Zwaag,"€3,500",115 m²,6 rooms
-90,Amsterdam,"€2,750",86 m²,3 rooms
-91,Maastricht,"€1,035",70 m²,1 room
-92,Maastricht,"€1,695",68 m²,1 room
-93,Brunssum,"€1,125",50 m²,2 rooms
-94,Brunssum,"€1,050",65 m²,3 rooms
-95,Brunssum,"€1,050",65 m²,3 rooms
-96,Amstelveen,"€2,750",69 m²,3 rooms
-97,Rotterdam,"€2,190",90 m²,3 rooms
-98,Brunssum,"€1,100",40 m²,2 rooms
-99,Brunssum,"€1,100",40 m²,2 rooms
-100,Brunssum,"€1,100",40 m²,2 rooms
-101,Brunssum,"€1,150",65 m²,2 rooms
-102,Brunssum,"€1,125",50 m²,2 rooms
-103,Amsterdam,"€2,600",100 m²,3 rooms
-104,Amstelveen,€820,50 m²,2 rooms
-105,Rotterdam,"€1,950",102 m²,3 rooms
-106,Den,"€1,950",100 m²,5 rooms
-107,Rotterdam,"€1,950",93 m²,5 rooms
-108,Rotterdam,"€1,995",90 m²,3 rooms
-109,Haarlem,"€1,695",100 m²,2 rooms
-110,Berg,€825,70 m²,1 room
-111,Arnhem,€995,55 m²,3 rooms
-112,Maastricht,"€1,550",61 m²,2 rooms
-113,Amsterdam,"€2,950",109 m²,3 rooms
-114,Utrecht,"€2,325",93 m²,3 rooms
-115,Maastricht,€332,10 m²,1 room
-116,Amersfoort,"€1,680",122 m²,3 rooms
-117,Rotterdam,"€1,995",90 m²,3 rooms
-118,Amsterdam,"€5,250",190 m²,7 rooms
-119,Rotterdam,"€2,750",120 m²,3 rooms
-120,Oosterbeek,"€1,450",89 m²,4 rooms
-121,Breda,"€2,200",100 m²,3 rooms
-122,Utrecht,"€2,200",84 m²,3 rooms
-123,Maastricht,"€1,500",115 m²,2 rooms
-124,Zaandam,"€1,933",88 m²,3 rooms
-125,Rotterdam,"€2,895",100 m²,4 rooms
-126,Den,"€1,050",32 m²,2 rooms
-127,Amsterdam,"€3,600",85 m²,5 rooms
-128,Amstelveen,"€2,750",69 m²,3 rooms
-129,Rotterdam,"€2,190",90 m²,3 rooms
-130,Maastricht,"€1,865",92 m²,3 rooms
-131,Zwolle,€422,21 m²,1 room
-132,Bentelo,"€1,650",170 m²,4 rooms
-133,Roosendaal,€695,26 m²,1 room
-134,Roermond,€958,111 m²,3 rooms
-135,Voorburg,"€2,200",131 m²,5 rooms
-136,Roermond,€963,90 m²,3 rooms
-137,Haarlem,"€2,245",99 m²,4 rooms
-138,Bentelo,"€1,495",150 m²,4 rooms
-139,Amsterdam,"€2,495",59 m²,3 rooms
-140,Broekhuizen,"€1,240",110 m²,4 rooms
-141,Maastricht,"€1,856",22 m²,1 room
-142,Den,"€1,700",143 m²,2 rooms
-143,Eindhoven,"€1,750",64 m²,2 rooms
-144,Amsterdam,"€1,600",55 m²,2 rooms
-145,Brunssum,"€1,450",110 m²,3 rooms
-146,Brunssum,€975,50 m²,2 rooms
-147,Almere,"€2,100",80 m²,3 rooms
-148,Brunssum,"€1,075",75 m²,2 rooms
-149,Almere,"€2,450",141 m²,6 rooms
-150,Rotterdam,"€2,400",120 m²,4 rooms
-151,Amsterdam,"€2,950",111 m²,5 rooms
-152,Rotterdam,"€2,400",105 m²,3 rooms
-153,Velp,€562,13 m²,1 room
-154,Amsterdam,"€2,750",86 m²,3 rooms
-155,Arnhem,€995,55 m²,2 rooms
-156,Beverwijk,"€2,406",173 m²,5 rooms
-157,Tilburg,€650,40 m²,1 room
-158,Maastricht,€549,14 m²,1 room
-159,Maastricht,"€1,210",26 m²,1 room
-160,Amsterdam,"€4,500",223 m²,5 rooms
-161,Amsterdam,"€2,100",88 m²,2 rooms
-162,Utrecht,"€2,250",105 m²,4 rooms
-163,Maastricht,€893,11 m²,1 room
-164,Nieuwkuijk,"€1,350",90 m²,3 rooms
-165,Den,"€2,500",127 m²,4 rooms
-166,Uithuizen,€250,108 m²,3 rooms
-167,Groningen,€600,80 m²,2 rooms
-168,Berkhout,"€1,500",105 m²,4 rooms
-169,Diemen,"€1,372",96 m²,4 rooms
-170,Amsterdam,"€2,650",80 m²,3 rooms
-171,Amersfoort,"€1,730",78 m²,3 rooms
-172,Utrecht,"€2,250",65 m²,2 rooms
-173,Groningen,€500,82 m²,2 rooms
-174,Alphen,"€1,025",54 m²,3 rooms
-175,Zwolle,"€1,800",159 m²,1 room
-176,Meerssen,€775,21 m²,1 room
-177,Oostwold,€400,89 m²,3 rooms
-178,Enschede,"€2,500",159 m²,4 rooms
-179,Zwolle,€365,19 m²,1 room
-180,Tilburg,€806,45 m²,2 rooms
-181,Landgraaf,"€1,125",120 m²,4 rooms
-182,Rotterdam,"€3,500",127 m²,3 rooms
-183,Eindhoven,"€2,175",126 m²,6 rooms
-184,Amsterdam,"€2,500",96 m²,4 rooms
-185,Amsterdam,"€3,000",106 m²,3 rooms
-186,Houten,"€3,250",343 m²,5 rooms
-187,Den,"€2,000",117 m²,4 rooms
-188,Warmond,"€1,800",78 m²,1 room
-189,Rotterdam,"€3,500",165 m²,4 rooms
-190,Warmond,"€1,550",64 m²,2 rooms
-191,Maastricht,"€1,275",75 m²,3 rooms
-192,Rotterdam,"€2,190",90 m²,3 rooms
-193,Amstelveen,"€2,750",69 m²,3 rooms
-194,Den,€879,80 m²,3 rooms
-195,Amsterdam,"€1,975",50 m²,2 rooms
-196,Den,"€1,950",110 m²,2 rooms
-197,Eindhoven,"€1,850",128 m²,4 rooms
-198,Tilburg,€620,23 m²,1 room
-199,Den,"€2,950",140 m²,8 rooms
-200,Eindhoven,"€1,950",160 m²,6 rooms
-201,Arnhem,"€1,100",67 m²,3 rooms
-202,Enschede,"€1,293",70 m²,3 rooms
-203,Warmond,"€1,700",65 m²,2 rooms
-204,Maastricht,"€1,122",35 m²,1 room
-205,Rotterdam,"€2,000",70 m²,3 rooms
-206,Den,"€1,350",42 m²,1 room
-207,Hooglanderveen,"€1,050",67 m²,2 rooms
-208,Amsterdam,"€2,000",87 m²,4 rooms
-209,Tilburg,€825,45 m²,1 room
-210,Vlaardingen,"€1,450",102 m²,4 rooms
-211,Amsterdam,"€2,950",106 m²,3 rooms
-212,Den,"€3,250",139 m²,4 rooms
-213,Den,"€2,700",157 m²,6 rooms
-214,Hoofddorp,"€1,595",87 m²,3 rooms
-215,Lelystad,"€1,950",110 m²,5 rooms
-216,IJmuiden,"€2,485",151 m²,5 rooms
-217,Amsterdam,"€2,150",70 m²,3 rooms
-218,Amsterdam,"€2,450",97 m²,3 rooms
-219,Leiden,"€1,700",48 m²,2 rooms
-220,Eindhoven,"€2,250",130 m²,3 rooms
-221,Vinkeveen,"€1,400",80 m²,2 rooms
-222,Helmond,"€1,520",83 m²,4 rooms
-223,Leeuwarden,€375,9 m²,2 rooms
-224,Amsterdam,"€2,100",88 m²,2 rooms
-225,Rotterdam,"€2,190",90 m²,3 rooms
-226,Haarlem,"€2,350",70 m²,2 rooms
-227,Amsterdam,"€3,250",116 m²,4 rooms
-228,Amsterdam,"€2,670",80 m²,3 rooms
-229,Zwolle,€425,18 m²,1 room
-230,Amsterdam,"€3,500",108 m²,3 rooms
-231,Zwolle,€430,20 m²,1 room
-232,Rotterdam,"€1,750",108 m²,3 rooms
-233,Rotterdam,"€2,250",129 m²,5 rooms
-234,Den,"€1,350",97 m²,3 rooms
-235,Eijsden,"€1,640",85 m²,3 rooms
-236,Waalwijk,€840,48 m²,2 rooms
-237,Heerlen,€975,95 m²,5 rooms
-238,Leiden,"€1,970",92 m²,4 rooms
-239,Breda,"€1,995",95 m²,3 rooms
-240,Enter,€980,70 m²,3 rooms
-241,Diemen,"€2,250",109 m²,5 rooms
-242,Meppel,"€1,075",68 m²,2 rooms
-243,Amstelveen,"€2,800",120 m²,5 rooms
-244,Heerenveen,"€1,195",115 m²,6 rooms
-245,Tilburg,€450,16 m²,1 room
-246,Amsterdam,"€3,150",70 m²,3 rooms
-247,Amsterdam,"€3,500",92 m²,3 rooms
-248,Amsterdam,"€2,900",90 m²,3 rooms
-249,Haarlem,"€1,750",84 m²,3 rooms
-250,Waalre,"€1,495",87 m²,3 rooms
-251,Eindhoven,"€2,200",120 m²,4 rooms
-252,Maastricht,€865,12 m²,1 room
-253,Groningen,€800,43 m²,2 rooms
-254,Amsterdam,"€2,750",120 m²,3 rooms
-255,Amsterdam,"€1,950",95 m²,4 rooms
-256,Amstelveen,"€2,750",69 m²,3 rooms
-257,Rotterdam,"€2,190",90 m²,3 rooms
-258,Rotterdam,"€1,195",77 m²,4 rooms
-259,Hoorn,"€1,025",55 m²,2 rooms
-260,Rotterdam,"€2,095",110 m²,4 rooms
-261,Rotterdam,€930,49 m²,2 rooms
-262,Purmerend,"€2,000",108 m²,5 rooms
-263,Amsterdam,"€3,495",130 m²,5 rooms
-264,Rotterdam,"€1,850",49 m²,2 rooms
-265,Zevenhuizen,"€1,500",133 m²,3 rooms
-266,Rotterdam,"€1,700",76 m²,3 rooms
-267,Groningen,"€1,075",25 m²,1 room
-268,Maastricht,€497,12 m²,1 room
-269,Den,€995,39 m²,2 rooms
-270,Amsterdam,"€3,550",150 m²,4 rooms
-271,Tilburg,€800,20 m²,1 room
-272,Katwijk,€925,17 m²,1 room
-273,Assen,€950,50 m²,2 rooms
-274,Assen,€850,50 m²,3 rooms
-275,Groningen,"€1,390",65 m²,2 rooms
-276,Baarn,"€1,495",73 m²,3 rooms
-277,Amsterdam,"€2,000",50 m²,1 room
-278,Groningen,"€1,390",78 m²,2 rooms
-279,Eindhoven,€700,27 m²,1 room
-280,Amsterdam,"€2,900",60 m²,2 rooms
-281,Utrecht,"€2,200",71 m²,3 rooms
-282,Den,€847,32 m²,2 rooms
-283,Amsterdam,"€2,850",85 m²,3 rooms
-284,Breda,€988,35 m²,1 room
-285,Breda,"€1,200",62 m²,3 rooms
-286,Maastricht,"€1,425",100 m²,3 rooms
-287,Veldhoven,"€1,900",120 m²,2 rooms
-288,Amstelveen,"€2,750",69 m²,3 rooms
-289,Amsterdam,"€2,500",140 m²,5 rooms
-290,Utrecht,"€2,500",123 m²,5 rooms
-291,Eindhoven,"€1,345",64 m²,2 rooms
-292,Rotterdam,"€1,850",99 m²,5 rooms
-293,Eindhoven,"€1,450",45 m²,2 rooms
-294,Tilburg,"€1,184",60 m²,1 room
-295,Den,"€1,044",46 m²,2 rooms
-296,Amsterdam,"€3,500",135 m²,4 rooms
-297,Amsterdam,"€2,750",63 m²,3 rooms
-298,Den,"€4,800",185 m²,8 rooms
-299,Den,"€2,300",142 m²,5 rooms
-300,Groningen,€985,25 m²,4 rooms
-301,Eindhoven,"€1,950",91 m²,3 rooms
-302,Groningen,"€1,350",100 m²,4 rooms
-303,Enschede,"€1,450",148 m²,6 rooms
-304,Tilburg,"€1,141",46 m²,1 room
-305,Almelo,€895,111 m²,5 rooms
-306,Rotterdam,"€2,800",125 m²,4 rooms
-307,Maastricht,€851,54 m²,1 room
-308,Maastricht,€602,22 m²,1 room
-309,Den,"€1,101",52 m²,3 rooms
-310,Den,€694,29 m²,1 room
-311,Rotterdam,"€1,500",105 m²,4 rooms
-312,Breda,€807,42 m²,2 rooms
-313,Arnhem,"€2,650",107 m²,6 rooms
-314,Sassenheim,€995,48 m²,2 rooms
-315,Amsterdam,"€3,500",97 m²,4 rooms
-316,Best,"€1,675",106 m²,8 rooms
-317,Utrecht,"€2,150",89 m²,3 rooms
-318,Amsterdam,"€4,000",133 m²,5 rooms
-319,Rotterdam,"€2,500",95 m²,3 rooms
-320,Amsterdam,"€4,500",223 m²,5 rooms
-321,Amsterdam,"€2,100",88 m²,2 rooms
-322,Eindhoven,€774,29 m²,1 room
-323,Oud-Beijerland,"€1,550",76 m²,2 rooms
-324,Amsterdam,"€2,300",90 m²,3 rooms
-325,Loon,€750,30 m²,2 rooms
-326,Amsterdam,"€2,250",53 m²,1 room
-327,Breda,€853,45 m²,2 rooms
-328,Brunssum,€627,35 m²,2 rooms
-329,Groningen,"€1,005",28 m²,1 room
-330,Den,"€1,395",52 m²,2 rooms
-331,Werkendam,"€1,225",60 m²,2 rooms
-332,Groningen,"€1,110",50 m²,2 rooms
-333,Groningen,€575,25 m²,1 room
-334,Groningen,"€1,883",175 m²,4 rooms
-335,Eindhoven,"€1,950",86 m²,3 rooms
-336,Lelystad,"€1,750",140 m²,4 rooms
-337,Tilburg,€800,26 m²,1 room
-338,Tilburg,€800,20 m²,1 room
-339,Tilburg,€800,27 m²,1 room
-340,Eindhoven,"€2,050",104 m²,4 rooms
-341,Zoetermeer,"€1,000",46 m²,2 rooms
-342,Zaandam,"€2,250",96 m²,3 rooms
-343,Amsterdam,"€1,850",85 m²,4 rooms
-344,Rotterdam,"€3,950",211 m²,8 rooms
-345,Amstelveen,"€12,500",425 m²,12 rooms
-346,Amsterdam,"€6,500",123 m²,4 rooms
-347,Maastricht,"€1,250",74 m²,3 rooms
-348,Rotterdam,"€1,975",75 m²,2 rooms
-349,Rotterdam,€996,61 m²,2 rooms
-350,Amsterdam,"€5,850",162 m²,6 rooms
-351,Amsterdam,"€3,250",85 m²,3 rooms
-352,Amsterdam,"€2,500",140 m²,5 rooms
-353,Amsterdam,"€2,100",88 m²,2 rooms
-354,Amsterdam,"€9,000",242 m²,6 rooms
-355,Tilburg,€650,27 m²,1 room
-356,Haarlem,"€2,685",129 m²,6 rooms
-357,Rotterdam,"€2,495",228 m²,6 rooms
-358,Amsterdam,"€2,550",100 m²,4 rooms
-359,Den,"€1,400",45 m²,2 rooms
-360,Oss,"€1,014",55 m²,2 rooms
-361,Horst,"€1,099",124 m²,3 rooms
-362,Amsterdam,"€1,794",66 m²,2 rooms
-363,Den,"€1,400",75 m²,2 rooms
-364,Den,€821,23 m²,1 room
-365,Den,€754,33 m²,2 rooms
-366,Arnhem,"€1,600",110 m²,4 rooms
-367,Amsterdam,"€2,750",76 m²,3 rooms
-368,Den,"€2,400",117 m²,4 rooms
-369,Groningen,"€1,400",55 m²,3 rooms
-370,Utrecht,"€2,395",137 m²,5 rooms
-371,Utrecht,"€2,450",108 m²,3 rooms
-372,Haarlem,"€3,500",134 m²,6 rooms
-373,Den,"€3,750",145 m²,5 rooms
-374,Rotterdam,"€2,500",124 m²,4 rooms
-375,Amsterdam,"€2,250",65 m²,2 rooms
-376,Maastricht,"€1,067",80 m²,3 rooms
-377,Den,€685,19 m²,1 room
-378,Hilversum,€649,32 m²,2 rooms
-379,Amsterdam,"€3,950",104 m²,3 rooms
-380,Groningen,"€1,005",30 m²,2 rooms
-381,Breda,"€2,170",131 m²,5 rooms
-382,Amsterdam,"€2,250",71 m²,3 rooms
-383,Zwolle,€636,30 m²,1 room
-384,Amstelveen,"€2,750",69 m²,3 rooms
-385,Amsterdam,"€4,500",223 m²,5 rooms
-386,Zwolle,€470,20 m²,1 room
-387,Zevenbergen,€446,100 m²,1 room
-388,Emmen,€309,30 m²,2 rooms
-389,Middelburg,"€1,195",95 m²,3 rooms
-390,Amsterdam,"€2,650",116 m²,4 rooms
-391,Breda,"€3,450",155 m²,4 rooms
-392,Bennekom,€809,63 m²,2 rooms
-393,Amsterdam,"€4,750",105 m²,5 rooms
-394,Amsterdam,"€1,650",95 m²,3 rooms
-395,Dordrecht,"€1,995",79 m²,3 rooms
-396,Hoogvliet,"€1,240",151 m²,5 rooms
-397,Den,"€1,850",120 m²,4 rooms
-398,Rotterdam,"€2,295",84 m²,3 rooms
-399,Deventer,€645,26 m²,1 room
-400,Den,"€2,743",128 m²,5 rooms
-401,Heerlen,€900,90 m²,3 rooms
-402,Amstelveen,"€2,750",110 m²,3 rooms
-403,Alphen,"€1,895",145 m²,4 rooms
-404,Breda,"€2,995",172 m²,3 rooms
-405,Harderwijk,"€1,250",40 m²,1 room
-406,Groningen,"€1,483",75 m²,3 rooms
-407,Leveroy,Price,176 m²,8 rooms
-408,Eindhoven,"€2,100",155 m²,5 rooms
-409,Zwolle,€555,21 m²,2 rooms
-410,Deventer,€485,15 m²,1 room
-411,Hoofddorp,"€2,995",156 m²,6 rooms
-412,Groningen,"€4,095",165 m²,7 rooms
-413,Den,"€2,000",111 m²,3 rooms
-414,Almere,"€2,350",135 m²,4 rooms
-415,Rotterdam,€918,80 m²,4 rooms
-416,Amsterdam,"€2,100",88 m²,2 rooms
-417,Rotterdam,"€2,190",90 m²,3 rooms
-418,Leiden,"€2,450",77 m²,2 rooms
-419,Heerde,€550,80 m²,4 rooms
-420,Almere,"€1,895",105 m²,5 rooms
-421,Sittard,"€2,000",77 m²,3 rooms
-422,Den,"€2,740",126 m²,4 rooms
-423,Den,"€2,750",112 m²,3 rooms
-424,Den,"€2,450",133 m²,5 rooms
-425,Amsterdam,"€2,500",106 m²,3 rooms
-426,Roermond,Price,90 m²,4 rooms
-427,Roermond,Price,90 m²,5 rooms
-428,Leersum,"€1,995",230 m²,4 rooms
-429,Amsterdam,"€2,350",80 m²,3 rooms
-430,Rotterdam,"€2,625",100 m²,3 rooms
-431,Enschede,€900,30 m²,1 room
-432,Moergestel,"€1,750",150 m²,5 rooms
-433,Amersfoort,"€1,195",51 m²,2 rooms
-434,Amstelveen,"€2,900",131 m²,3 rooms
-435,Rotterdam,"€2,100",110 m²,6 rooms
-436,Veldhoven,"€1,900",76 m²,3 rooms
-437,Den,"€3,750",127 m²,4 rooms
-438,Almere,"€2,600",143 m²,6 rooms
-439,Nijmegen,€995,42 m²,2 rooms
-440,Leeuwarden,Price,70 m²,2 rooms
-441,Gouda,"€2,999",288 m²,7 rooms
-442,Amsterdam,"€2,166",131 m²,3 rooms
-443,Amsterdam,"€2,450",81 m²,3 rooms
-444,Tilburg,"€1,445",51 m²,2 rooms
-445,Den,€550,16 m²,1 room
-446,Amsterdam,"€2,650",105 m²,4 rooms
-447,Tilburg,"€1,695",93 m²,3 rooms
-448,Amstelveen,"€2,750",69 m²,3 rooms
-449,Amsterdam,"€2,500",140 m²,5 rooms
-450,Den,€475,15 m²,2 rooms
-451,Amsterdam,"€2,500",70 m²,3 rooms
-452,Amsterdam,"€3,500",145 m²,4 rooms
-453,Roosendaal,€930,80 m²,3 rooms
-454,Hattem,"€3,000",206 m²,5 rooms
-455,Rotterdam,"€1,295",70 m²,3 rooms
-456,Tilburg,"€1,795",120 m²,2 rooms
-457,Oss,€875,36 m²,1 room
-458,Oss,€685,13 m²,1 room
-459,Amstelveen,"€2,650",115 m²,5 rooms
-460,Rotterdam,"€1,650",75 m²,3 rooms
-461,Roermond,€900,60 m²,3 rooms
-462,Maastricht,€995,45 m²,2 rooms
-463,Utrecht,"€1,650",40 m²,1 room
-464,Schiedam,"€1,850",109 m²,4 rooms
-465,Nieuw-Vennep,"€1,650",83 m²,4 rooms
-466,Delft,€850,63 m²,3 rooms
-467,Utrecht,"€1,165",30 m²,1 room
-468,Eindhoven,€945,47 m²,2 rooms
-469,Maastricht,€531,16 m²,1 room
-470,Amstelveen,"€2,150",79 m²,4 rooms
-471,Amsterdam,"€2,250",110 m²,3 rooms
-472,Breda,"€2,750",354 m²,3 rooms
-473,Breda,"€2,800",143 m²,5 rooms
-474,Maastricht,"€1,825",72 m²,4 rooms
-475,Breda,"€2,395",127 m²,5 rooms
-476,Laren,"€2,500",72 m²,3 rooms
-477,Amsterdam,"€3,250",134 m²,4 rooms
-478,Amsterdam,"€3,600",115 m²,3 rooms
-479,Haarlem,"€2,650",90 m²,3 rooms
-480,Amstelveen,"€2,750",69 m²,3 rooms
-481,Amsterdam,"€2,100",88 m²,2 rooms
-482,Amsterdam,"€3,250",96 m²,4 rooms
-483,Amsterdam,"€3,500",111 m²,5 rooms
-484,Amstelveen,"€2,425",116 m²,3 rooms
-485,Amstelveen,"€2,275",106 m²,3 rooms
-486,Schijndel,"€1,950",197 m²,5 rooms
-487,Amsterdam,"€2,750",132 m²,4 rooms
-488,Maastricht,€515,18 m²,1 room
-489,Amsterdam,"€3,800",128 m²,4 rooms
-490,Nieuwegein,"€1,069",36 m²,1 room
-491,Rotterdam,"€2,200",102 m²,4 rooms
-492,Maastricht,"€1,900",111 m²,4 rooms
-493,Eindhoven,"€2,150",100 m²,4 rooms
-494,Amsterdam,"€4,100",142 m²,6 rooms
-495,Maarssen,"€2,480",128 m²,7 rooms
-496,Amstelveen,"€3,800",180 m²,7 rooms
-497,Den,"€2,500",94 m²,4 rooms
-498,Vlissingen,"€1,450",65 m²,2 rooms
-499,Amstelveen,"€2,500",108 m²,5 rooms
-500,Groningen,€980,35 m²,2 rooms
-501,Aalsmeer,"€3,950",201 m²,5 rooms
-502,Capelle,"€1,295",80 m²,4 rooms
-503,Waalre,"€3,250",184 m²,5 rooms
-504,Amsterdam,"€2,650",80 m²,3 rooms
-505,Sneek,"€1,050",107 m²,4 rooms
-506,Hoogeveen,€875,36 m²,1 room
-507,Rotterdam,"€1,250",53 m²,3 rooms
-508,Vleuten,"€2,250",88 m²,3 rooms
-509,Rotterdam,"€3,500",251 m²,4 rooms
-510,Boxtel,"€1,300",30 m²,1 room
-511,Nuenen,"€1,850",118 m²,4 rooms
-512,Amsterdam,"€2,500",140 m²,5 rooms
-513,Amstelveen,"€2,750",69 m²,3 rooms
-514,Eindhoven,"€1,085",71 m²,2 rooms
-515,Amsterdam,"€2,395",97 m²,3 rooms
-516,Rotterdam,"€1,500",80 m²,2 rooms
-517,Rijswijk,"€1,078",73 m²,3 rooms
-518,Rotterdam,"€2,495",79 m²,3 rooms
-519,Breda,"€1,950",119 m²,5 rooms
-520,Katwijk,"€1,175",62 m²,2 rooms
-521,Rijsenhout,"€3,450",160 m²,5 rooms
-522,Rotterdam,€955,38 m²,2 rooms
-523,Rotterdam,€935,48 m²,3 rooms
-524,Roosendaal,"€2,495",321 m²,7 rooms
-525,Spijkenisse,€970,100 m²,3 rooms
-526,Baarn,€740,29 m²,1 room
-527,Hilversum,"€2,150",96 m²,4 rooms
-528,Groningen,"€1,067",35 m²,2 rooms
-529,Rotterdam,"€1,850",95 m²,3 rooms
-530,Amsterdam,"€1,900",90 m²,3 rooms
-531,Meijel,"€2,095",125 m²,5 rooms
-532,Waalwijk,€851,43 m²,1 room
-533,Roosendaal,€920,60 m²,3 rooms
-534,Katwijk,€950,45 m²,2 rooms
-535,Den,"€2,300",116 m²,4 rooms
-536,Tilburg,€995,41 m²,2 rooms
-537,Eindhoven,"€1,545",99 m²,4 rooms
-538,Utrecht,"€1,090",46 m²,2 rooms
-539,Grou,"€1,400",78 m²,4 rooms
-540,Amsterdam,"€2,150",75 m²,2 rooms
-541,Edam,"€1,050",62 m²,2 rooms
-542,Amsterdam,"€5,000",145 m²,5 rooms
-543,Hilversum,"€2,750",122 m²,3 rooms
-544,Amsterdam,"€4,500",223 m²,5 rooms
-545,Amstelveen,"€2,750",69 m²,3 rooms
-546,Amsterdam,"€3,250",101 m²,3 rooms
-547,Eindhoven,"€1,325",59 m²,2 rooms
-548,Gouda,"€2,995",120 m²,4 rooms
-549,Gouda,"€2,995",122 m²,4 rooms
-550,Amsterdam,"€5,500",105 m²,3 rooms
-551,Groningen,"€1,030",66 m²,2 rooms
-552,Apeldoorn,€951,93 m²,4 rooms
-553,Apeldoorn,"€1,023",93 m²,4 rooms
-554,Den,"€1,316",61 m²,2 rooms
-555,Middenbeemster,"€3,500",317 m²,5 rooms
-556,Eindhoven,"€1,900",120 m²,5 rooms
-557,Vlaardingen,"€2,050",94 m²,4 rooms
-558,Amsterdam,"€3,000",140 m²,5 rooms
-559,Eindhoven,"€1,695",90 m²,3 rooms
-560,Eindhoven,€703,12 m²,1 room
-561,Voerendaal,"€1,350",130 m²,4 rooms
-562,Capelle,"€1,650",76 m²,4 rooms
-563,Maastricht,€952,21 m²,1 room
-564,Amsterdam,"€2,000",126 m²,5 rooms
-565,Amsterdam,"€2,450",120 m²,3 rooms
-566,Sittard,€915,24 m²,2 rooms
-567,Maastricht,"€1,195",25 m²,2 rooms
-568,Enschede,"€1,095",66 m²,3 rooms
-569,Rotterdam,"€2,495",131 m²,5 rooms
-570,Amsterdam,"€3,500",125 m²,4 rooms
-571,Steenbergen,€850,35 m²,2 rooms
-572,Amsterdam,"€3,300",93 m²,3 rooms
-573,Reusel,€300,72 m²,2 rooms
-574,Waalre,€300,41 m²,2 rooms
-575,Bladel,"€1,275",110 m²,5 rooms
-576,Amsterdam,"€4,500",223 m²,5 rooms
-577,Amsterdam,"€2,500",140 m²,5 rooms
-578,Utrecht,"€2,550",93 m²,3 rooms
-579,Enschede,€325,10 m²,1 room
-580,Amsterdam,"€2,750",90 m²,4 rooms
-581,Amsterdam,"€2,975",100 m²,3 rooms
-582,Oosterhout,"€1,057",121 m²,4 rooms
-583,Rotterdam,"€3,500",170 m²,7 rooms
-584,Arnhem,"€2,675",120 m²,5 rooms
-585,Amsterdam,"€3,850",75 m²,2 rooms
-586,Groningen,"€1,165",35 m²,2 rooms
-587,Groningen,"€1,450",105 m²,3 rooms
-588,Den,"€2,450",93 m²,4 rooms
-589,Almere,"€2,300",114 m²,5 rooms
-590,Den,"€4,500",139 m²,4 rooms
-591,Apeldoorn,€675,31 m²,1 room
-592,Kampen,€950,78 m²,3 rooms
-593,Oegstgeest,"€1,975",92 m²,2 rooms
-594,Haarlem,"€2,250",101 m²,3 rooms
-595,Dinteloord,"€1,800",133 m²,3 rooms
-596,Enschede,"€1,024",63 m²,2 rooms
-597,Den,"€1,700",112 m²,4 rooms
-598,Eindhoven,"€1,275",67 m²,2 rooms
-599,Utrecht,"€2,650",110 m²,3 rooms
-600,Amsterdam,"€2,950",91 m²,3 rooms
-601,Amsterdam,"€9,750",221 m²,6 rooms
-602,Maastricht,"€1,127",78 m²,1 room
-603,Rotterdam,€885,22 m²,1 room
-604,Den,"€1,785",99 m²,4 rooms
-605,Den,"€1,565",95 m²,3 rooms
-606,Amsterdam,"€1,950",45 m²,2 rooms
-607,Rotterdam,"€1,650",62 m²,2 rooms
-608,Amstelveen,"€2,750",69 m²,3 rooms
-609,Rotterdam,"€2,190",90 m²,3 rooms
-610,Amsterdam,"€2,155",92 m²,3 rooms
-611,Delft,"€2,200",108 m²,4 rooms
-612,Meijel,"€1,750",90 m²,4 rooms
-613,Schiedam,"€2,500",100 m²,4 rooms
-614,Eindhoven,"€1,890",144 m²,5 rooms
-615,Amsterdam,"€7,800",180 m²,5 rooms
-616,Amsterdam,"€2,750",95 m²,3 rooms
-617,Amsterdam,"€3,500",135 m²,4 rooms
-618,Oosterhout,"€1,075",55 m²,2 rooms
-619,Groningen,€957,65 m²,2 rooms
-620,Roermond,"€1,250",115 m²,2 rooms
-621,Utrecht,"€1,950",100 m²,4 rooms
-622,Groningen,€850,20 m²,1 room
-623,Eindhoven,"€1,850",82 m²,2 rooms
-624,Broek,"€1,500",55 m²,2 rooms
-625,Zandvoort,"€2,750",123 m²,4 rooms
-626,Amsterdam,"€2,100",65 m²,2 rooms
-627,Amsterdam,"€3,000",75 m²,3 rooms
-628,Bussum,"€4,950",358 m²,11 rooms
-629,Haarlem,"€1,800",70 m²,3 rooms
-630,Amsterdam,"€4,000",95 m²,3 rooms
-631,Amsterdam,"€3,250",107 m²,3 rooms
-632,Epse,"€1,500",98 m²,2 rooms
-633,Amsterdam,"€3,000",75 m²,3 rooms
-634,Maastricht,"€1,250",72 m²,1 room
-635,Warmond,€737,25 m²,1 room
-636,Oegstgeest,"€1,295",79 m²,3 rooms
-637,Zevenhoven,"€2,150",190 m²,6 rooms
-638,Noordwijk,"€2,400",130 m²,3 rooms
-639,Rotterdam,"€2,100",103 m²,4 rooms
-640,Amsterdam,"€4,500",223 m²,5 rooms
-641,Amsterdam,"€2,500",140 m²,5 rooms
-642,Amsterdam,"€2,500",69 m²,3 rooms
-643,Eindhoven,"€1,795",159 m²,4 rooms
-644,Zwolle,"€1,195",60 m²,2 rooms
-645,Rotterdam,"€1,600",81 m²,3 rooms
-646,Rotterdam,"€2,100",120 m²,4 rooms
-647,Zwolle,€495,16 m²,1 room
-648,Rotterdam,"€2,450",127 m²,4 rooms
-649,Eijsden,"€1,145",55 m²,2 rooms
-650,Amsterdam,"€3,250",125 m²,3 rooms
-651,Den,"€1,300",77 m²,3 rooms
-652,Den,"€1,750",138 m²,5 rooms
-653,Oss,"€1,000",65 m²,2 rooms
-654,Den,"€1,350",76 m²,3 rooms
-655,Den,"€1,300",76 m²,3 rooms
-656,Amsterdam,"€2,350",90 m²,4 rooms
-657,Utrecht,€875,39 m²,2 rooms
-658,Amsterdam,"€1,600",67 m²,3 rooms
-659,Den,€490,23 m²,1 room
-660,Hoofddorp,"€3,250",118 m²,3 rooms
-661,Diemen,"€1,596",95 m²,3 rooms
-662,Amstelveen,"€2,875",146 m²,6 rooms
-663,Assen,"€1,200",58 m²,2 rooms
-664,Maastricht,€621,28 m²,1 room
-665,Roosendaal,€815,52 m²,2 rooms
-666,Apeldoorn,"€1,000",20 m²,2 rooms
-667,Utrecht,"€1,795",30 m²,1 room
-668,Amsterdam,"€2,500",88 m²,3 rooms
-669,Veenendaal,"€1,950",145 m²,6 rooms
-670,Rotterdam,"€2,100",95 m²,3 rooms
-671,Utrecht,"€1,595",35 m²,2 rooms
-672,Amsterdam,"€2,100",88 m²,2 rooms
-673,Amstelveen,"€2,750",69 m²,3 rooms
-674,Den,"€6,000",167 m²,5 rooms
-675,Rotterdam,"€1,550",75 m²,2 rooms
-676,Assen,€875,50 m²,2 rooms
-677,Katwijk,"€1,375",65 m²,3 rooms
-678,Nieuwegein,"€4,995",348 m²,5 rooms
-679,Eindhoven,€850,10 m²,1 room
-680,Haarlem,"€5,000",179 m²,7 rooms
-681,Utrecht,"€1,595",75 m²,2 rooms
-682,Amsterdam,"€2,400",71 m²,3 rooms
-683,Naarden,€843,35 m²,1 room
-684,Breda,"€2,250",154 m²,4 rooms
-685,Eindhoven,"€2,100",108 m²,3 rooms
-686,Nieuwkoop,"€1,600",89 m²,5 rooms
-687,Amsterdam,"€3,600",130 m²,4 rooms
-688,Groningen,"€1,812",110 m²,3 rooms
-689,Bocholtz,€309,40 m²,2 rooms
-690,Almere,"€1,850",138 m²,5 rooms
-691,Den,€525,14 m²,1 room
-692,Huizen,"€1,550",80 m²,3 rooms
-693,Nieuwleusen,"€1,222",90 m²,3 rooms
-694,Landgraaf,€590,24 m²,2 rooms
-695,Roosendaal,€675,30 m²,2 rooms
-696,Roosendaal,€915,47 m²,3 rooms
-697,Amsterdam,"€3,250",140 m²,4 rooms
-698,Rilland,"€1,675",280 m²,9 rooms
-699,Rotterdam,"€2,595",90 m²,4 rooms
-700,Groningen,"€1,000",46 m²,1 room
-701,Amersfoort,"€1,595",120 m²,3 rooms
-702,Eindhoven,"€1,345",64 m²,2 rooms
-703,Amsterdam,"€3,800",109 m²,3 rooms
-704,Rotterdam,"€2,190",90 m²,3 rooms
-705,Amstelveen,"€2,750",69 m²,3 rooms
-706,Amsterdam,"€2,650",97 m²,3 rooms
-707,Utrecht,"€2,750",119 m²,5 rooms
-708,Rotterdam,"€1,850",79 m²,2 rooms
-709,Alkmaar,"€1,009",56 m²,1 room
-710,Leiden,"€2,450",109 m²,4 rooms
-711,Nuenen,"€1,195",110 m²,4 rooms
-712,Den,"€1,815",102 m²,4 rooms
-713,Roermond,"€1,045",119 m²,4 rooms
-714,Amsterdam,"€3,450",100 m²,3 rooms
-715,Groningen,"€2,650",178 m²,5 rooms
-716,Rotterdam,"€1,045",69 m²,3 rooms
-717,Utrecht,"€1,765",112 m²,4 rooms
-718,Eindhoven,"€1,736",120 m²,2 rooms
-719,Amsterdam,"€3,250",115 m²,3 rooms
-720,Eindhoven,"€1,990",107 m²,3 rooms
-721,Eindhoven,"€2,500",170 m²,5 rooms
-722,Veldhoven,"€1,950",92 m²,3 rooms
-723,Amsterdam,"€2,400",92 m²,3 rooms
-724,Enschede,"€1,395",60 m²,3 rooms
-725,Westzaan,€650,80 m²,3 rooms
-726,Maarssen,"€2,250",116 m²,5 rooms
-727,Rotterdam,"€2,900",117 m²,4 rooms
-728,Wijchen,"€1,500",200 m²,6 rooms
-729,Wormerveer,€650,65 m²,3 rooms
-730,Amsterdam,"€3,995",130 m²,5 rooms
-731,Rotterdam,"€1,574",28 m²,5 rooms
-732,Amsterdam,"€2,250",72 m²,2 rooms
-733,Helmond,"€1,550",85 m²,4 rooms
-734,Haarlem,"€1,985",67 m²,3 rooms
-735,Rijswijk,"€2,500",162 m²,5 rooms
-736,Amstelveen,"€2,750",69 m²,3 rooms
-737,Amsterdam,"€2,500",140 m²,5 rooms
-738,Amsterdam,"€2,750",99 m²,4 rooms
-739,Den,"€3,500",114 m²,4 rooms
-740,Groningen,"€1,995",135 m²,5 rooms
-741,Waalre,€875,35 m²,1 room
-742,Schiedam,"€1,700",89 m²,4 rooms
-743,Den,"€1,850",67 m²,1 room
-744,Amsterdam,"€2,650",117 m²,3 rooms
-745,Amsterdam,"€3,950",151 m²,5 rooms
-746,Hoofddorp,"€1,895",85 m²,3 rooms
-747,Hoofddorp,"€1,895",60 m²,3 rooms
-748,Wierden,"€1,335",119 m²,5 rooms
-749,Amsterdam,"€3,750",94 m²,3 rooms
-750,Almere,"€2,500",150 m²,5 rooms
-751,Grevenbicht,€995,100 m²,3 rooms
-752,Maastricht,"€1,850",95 m²,3 rooms
-753,Enschede,€375,18 m²,1 room
-754,Sittard,€725,66 m²,2 rooms
-755,Veldhoven,"€1,110",64 m²,3 rooms
-756,Veldhoven,"€1,320",91 m²,4 rooms
-757,Amsterdam,"€5,750",315 m²,10 rooms
-758,Bunnik,"€2,000",128 m²,3 rooms
-759,Groningen,"€1,440",105 m²,3 rooms
-760,Den,"€1,873",98 m²,5 rooms
-761,Amsterdam,"€1,999",45 m²,1 room
-762,Hilversum,"€1,150",45 m²,3 rooms
-763,Hilversum,"€1,150",45 m²,2 rooms
-764,Amsterdam,"€2,395",66 m²,3 rooms
-765,Katwijk,€750,20 m²,2 rooms
-766,Zwolle,"€1,295",55 m²,2 rooms
-767,Maastricht,"€2,800",150 m²,5 rooms
-768,Amsterdam,"€2,500",140 m²,5 rooms
-769,Rotterdam,"€2,190",90 m²,3 rooms
-770,Beek,"€1,400",118 m²,5 rooms
-771,Almere,"€2,160",105 m²,4 rooms
-772,Middelaar,€895,95 m²,4 rooms
-773,Leiden,"€2,400",100 m²,4 rooms
-774,Amsterdam,"€2,500",125 m²,3 rooms
-775,Den,"€1,100",32 m²,1 room
-776,Veghel,"€1,425",105 m²,5 rooms
-777,Nijmegen,"€1,225",95 m²,3 rooms
-778,Rotterdam,€814,44 m²,2 rooms
-779,Amsterdam,"€2,000",72 m²,3 rooms
-780,Amersfoort,"€1,485",72 m²,3 rooms
-781,Deventer,"€1,275",80 m²,2 rooms
-782,Amsterdam,"€1,955",55 m²,2 rooms
-783,Rotterdam,"€1,525",88 m²,3 rooms
-784,Geleen,"€1,495",120 m²,4 rooms
-785,Hillegom,"€1,795",135 m²,5 rooms
-786,Weert,€880,64 m²,2 rooms
-787,Amsterdam,"€4,750",184 m²,6 rooms
-788,Eindhoven,"€1,175",41 m²,2 rooms
-789,Leeuwarden,€350,9 m²,1 room
-790,Amsterdam,"€2,850",95 m²,3 rooms
-791,Colijnsplaat,"€1,450",108 m²,4 rooms
-792,Hoofddorp,"€2,250",106 m²,5 rooms
-793,Kerkrade,€549,45 m²,2 rooms
-794,Amsterdam,"€1,985",64 m²,2 rooms
-795,Amstelveen,"€4,995",200 m²,6 rooms
-796,Den,"€1,250",50 m²,2 rooms
-797,Rotterdam,"€2,650",118 m²,6 rooms
-798,Apeldoorn,€651,23 m²,1 room
-799,Helmond,"€1,225",86 m²,4 rooms
-800,Amsterdam,"€4,500",223 m²,5 rooms
-801,Amstelveen,"€2,750",69 m²,3 rooms
-802,Rotterdam,"€1,300",45 m²,1 room
-803,Schijndel,"€1,350",132 m²,5 rooms
-804,Amsterdam,"€2,200",88 m²,3 rooms
-805,Almelo,€780,50 m²,2 rooms
-806,Den,"€1,850",90 m²,4 rooms
-807,Maastricht,"€1,495",93 m²,2 rooms
-808,Maastricht,"€3,000",244 m²,5 rooms
-809,Amsterdam,"€2,500",96 m²,3 rooms
-810,Den,"€1,900",90 m²,4 rooms
-811,Roermond,"€1,350",60 m²,4 rooms
-812,Roermond,"€1,350",80 m²,4 rooms
-813,Maastricht,"€1,995",103 m²,5 rooms
-814,Spijkenisse,"€2,500",120 m²,6 rooms
-815,Tilburg,€899,52 m²,1 room
-816,Amsterdam,"€2,600",85 m²,3 rooms
-817,Leiden,"€1,575",72 m²,3 rooms
-818,Zevenhuizen,"€2,500",150 m²,5 rooms
-819,Amsterdam,"€2,950",102 m²,3 rooms
-820,Rotterdam,"€2,395",130 m²,4 rooms
-821,Maastricht,"€2,995",163 m²,3 rooms
-822,Roermond,"€1,050",55 m²,4 rooms
-823,Eindhoven,"€1,850",122 m²,5 rooms
-824,Zeist,€976,76 m²,3 rooms
-825,Roermond,€750,24 m²,2 rooms
-826,Veldhoven,€530,12 m²,1 room
-827,Maastricht,"€1,077",27 m²,1 room
-828,Waalre,"€1,495",96 m²,3 rooms
-829,Den,"€2,500",105 m²,3 rooms
-830,Den,"€3,650",149 m²,4 rooms
-831,Eindhoven,"€1,300",74 m²,3 rooms
-832,Amsterdam,"€2,500",140 m²,5 rooms
-833,Amstelveen,"€2,750",69 m²,3 rooms
-834,Den,"€2,500",100 m²,4 rooms
-835,Veldhoven,"€1,275",50 m²,1 room
-836,Geulle,"€2,450",129 m²,4 rooms
-837,Veldhoven,"€1,500",50 m²,2 rooms
-838,Maastricht,"€4,200",220 m²,7 rooms
-839,Breukelen,"€4,950",245 m²,6 rooms
-840,Apeldoorn,€697,22 m²,1 room
-841,Oisterwijk,"€1,500",127 m²,4 rooms
-842,Heerlen,€568,33 m²,2 rooms
-843,Rotterdam,"€1,650",85 m²,3 rooms
-844,Boxtel,"€1,890",170 m²,5 rooms
-845,Oirsbeek,"€1,030",120 m²,5 rooms
-846,Wassenaar,"€5,500",200 m²,6 rooms
-847,Den,"€3,600",124 m²,4 rooms
-848,Eindhoven,"€1,525",109 m²,4 rooms
-849,Amsterdam,"€2,500",85 m²,3 rooms
-850,Amsterdam,"€2,100",88 m²,2 rooms
-851,Amersfoort,"€1,200",38 m²,1 room
-852,Den,"€2,300",105 m²,3 rooms
-853,Den,"€8,000",361 m²,9 rooms
-854,Eindhoven,"€1,275",26 m²,2 rooms
-855,Rotterdam,"€2,390",175 m²,4 rooms
-856,Amstelveen,"€2,000",78 m²,3 rooms
-857,Amersfoort,"€1,995",89 m²,3 rooms
-858,Maastricht,"€2,295",285 m²,6 rooms
-859,Eindhoven,"€1,900",141 m²,5 rooms
-860,Amsterdam,"€2,800",78 m²,3 rooms
-861,Den,"€2,650",121 m²,5 rooms
-862,Franeker,"€1,000",90 m²,3 rooms
-863,Arnhem,"€1,300",50 m²,2 rooms
-864,Amsterdam,"€2,500",140 m²,5 rooms
-865,Amsterdam,"€2,100",88 m²,2 rooms
-866,Maastricht,"€1,995",105 m²,3 rooms
-867,Maastricht,"€1,995",100 m²,3 rooms
-868,Rotterdam,"€1,978",117 m²,3 rooms
-869,Rotterdam,"€1,998",84 m²,3 rooms
-870,Amsterdam,"€2,750",90 m²,3 rooms
-871,Oosterhout,"€1,975",176 m²,3 rooms
-872,Rotterdam,"€1,995",125 m²,2 rooms
-873,Groningen,"€1,231",63 m²,2 rooms
-874,Amsterdam,"€2,450",82 m²,6 rooms
-875,Rotterdam,"€3,500",206 m²,8 rooms
-876,Eindhoven,"€1,375",78 m²,3 rooms
-877,Eindhoven,"€1,325",78 m²,3 rooms
-878,Leiden,"€1,119",50 m²,2 rooms
-879,Rotterdam,"€2,950",154 m²,4 rooms
-880,Amsterdam,"€3,900",170 m²,4 rooms
-881,Amsterdam,"€2,250",55 m²,2 rooms
-882,Roosendaal,"€1,065",79 m²,3 rooms
-883,Haarlem,"€2,895",130 m²,2 rooms
-884,Velsen-Zuid,"€2,250",160 m²,6 rooms
-885,Eindhoven,"€1,700",60 m²,2 rooms
-886,Broek,"€3,250",154 m²,4 rooms
-887,Wilnis,"€1,350",40 m²,2 rooms
-888,Eindhoven,"€2,450",119 m²,5 rooms
-889,Roosendaal,€850,56 m²,2 rooms
-890,Amsterdam,"€2,000",90 m²,3 rooms
-891,Eindhoven,"€1,800",67 m²,3 rooms
-892,Midlaren,"€2,350",223 m²,5 rooms
-893,Wageningen,"€2,100",127 m²,6 rooms
-894,Den,"€2,095",140 m²,4 rooms
-895,Roosendaal,"€1,195",120 m²,2 rooms
-896,Amsterdam,"€4,500",223 m²,5 rooms
-897,Amstelveen,"€2,750",69 m²,3 rooms
-898,Rotterdam,"€1,400",74 m²,3 rooms
-899,Oosterbeek,"€2,150",102 m²,3 rooms
-900,Tilburg,€539,16 m²,1 room
-901,Lelystad,"€2,250",120 m²,5 rooms
-902,Leiden,"€2,050",93 m²,3 rooms
-903,Rotterdam,"€2,150",100 m²,3 rooms
-904,Heerlen,€650,55 m²,1 room
-905,Maastricht,"€1,725",55 m²,1 room
-906,Rotterdam,"€1,450",64 m²,2 rooms
-907,Almelo,"€1,050",80 m²,3 rooms
-908,Breda,"€2,300",89 m²,4 rooms
-909,Amsterdam,"€2,000",69 m²,2 rooms
-910,Roermond,€800,43 m²,2 rooms
-911,Berg,€710,60 m²,2 rooms
-912,Amsterdam,"€3,450",75 m²,3 rooms
-913,Rijswijk,"€1,400",54 m²,2 rooms
-914,Roosendaal,"€1,750",107 m²,4 rooms
-915,Maastricht,€851,16 m²,1 room
-916,Bergen,"€1,100",60 m²,2 rooms
-917,Roosendaal,"€1,000",35 m²,1 room
-918,Tienhoven,"€1,250",70 m²,3 rooms
-919,Ouddorp,"€2,000",50 m²,2 rooms
-920,Maastricht,€931,12 m²,1 room
-921,Arnhem,"€1,015",30 m²,2 rooms
-922,Maastricht,"€1,695",141 m²,5 rooms
-923,Zaandam,"€2,200",75 m²,4 rooms
-924,Groningen,€906,36 m²,2 rooms
-925,Amsterdam,"€3,850",129 m²,3 rooms
-926,Hoofddorp,"€1,295",74 m²,3 rooms
-927,Deventer,€924,75 m²,3 rooms
-928,Amsterdam,"€4,500",223 m²,5 rooms
-929,Amsterdam,"€2,100",88 m²,2 rooms
-930,Den,"€1,125",52 m²,3 rooms
-931,Amsterdam,"€2,350",95 m²,3 rooms
-932,Rijswijk,"€2,250",117 m²,6 rooms
-933,Amsterdam,"€2,350",50 m²,3 rooms
-934,Amsterdam,"€3,950",200 m²,5 rooms
-935,Amersfoort,€550,12 m²,1 room
-936,Utrecht,"€2,795",164 m²,5 rooms
-937,Amsterdam,"€3,500",145 m²,5 rooms
-938,Amsterdam,"€2,500",90 m²,3 rooms
-939,Rotterdam,"€1,495",75 m²,4 rooms
-940,Lelystad,"€2,350",135 m²,6 rooms
-941,Amsterdam,"€2,650",85 m²,3 rooms
-942,Amsterdam,"€2,200",85 m²,2 rooms
-943,Amsterdam,"€2,750",80 m²,3 rooms
-944,Kampen,€660,39 m²,2 rooms
-945,Assen,€568,24 m²,2 rooms
-946,Hillegom,"€1,990",140 m²,4 rooms
-947,Wassenaar,"€3,695",173 m²,6 rooms
-948,Eindhoven,"€1,371",53 m²,2 rooms
-949,Amsterdam,"€2,825",94 m²,2 rooms
-950,Rotterdam,"€2,195",69 m²,4 rooms
-951,Maastricht,"€1,298",90 m²,5 rooms
-952,Eindhoven,"€1,975",150 m²,5 rooms
-953,Rotterdam,"€1,750",80 m²,2 rooms
-954,Rotterdam,"€1,800",100 m²,3 rooms
-955,Eindhoven,"€2,495",149 m²,4 rooms
-956,Bergschenhoek,"€2,500",124 m²,6 rooms
-957,Eindhoven,"€1,995",132 m²,3 rooms
-958,Nieuwegein,"€3,000",135 m²,5 rooms
-959,Utrecht,"€1,340",78 m²,3 rooms
-960,Amstelveen,"€2,750",69 m²,3 rooms
-961,Amsterdam,"€2,500",140 m²,5 rooms
-962,Rotterdam,"€2,500",100 m²,3 rooms
-963,Heerlen,"€1,095",92 m²,5 rooms
-964,Naarden,€843,32 m²,1 room
-965,Tilburg,"€1,300",30 m²,1 room
-966,Maastricht,"€1,100",36 m²,2 rooms
-967,Eindhoven,"€1,450",56 m²,3 rooms
-968,Tilburg,"€1,300",34 m²,1 room
-969,Tilburg,€900,20 m²,1 room
-970,Hoofddorp,"€2,700",108 m²,3 rooms
-971,Rotterdam,"€1,375",99 m²,4 rooms
-972,Breda,"€1,005",45 m²,2 rooms
-973,Amsterdam,"€3,350",107 m²,4 rooms
-974,Geleen,€900,82 m²,5 rooms
-975,Den,"€3,350",127 m²,3 rooms
-976,Rotterdam,"€1,995",71 m²,4 rooms
-977,Rotterdam,"€1,750",70 m²,3 rooms
-978,Rotterdam,"€2,995",68 m²,2 rooms
-979,Amsterdam,"€2,250",100 m²,3 rooms
-980,Amstelveen,"€2,400",84 m²,2 rooms
-981,Tilburg,€800,18 m²,1 room
-982,Den,"€1,450",65 m²,2 rooms
-983,Amstelveen,"€2,495",73 m²,3 rooms
-984,Utrecht,"€4,250",238 m²,5 rooms
-985,Hoofddorp,"€2,500",76 m²,3 rooms
-986,Den,"€2,950",133 m²,6 rooms
-987,Den,"€4,500",230 m²,9 rooms
-988,Overveen,"€1,650",71 m²,3 rooms
-989,Leiden,"€1,982",66 m²,3 rooms
-990,Amsterdam,"€2,500",80 m²,3 rooms
-991,Amstelveen,"€2,750",120 m²,5 rooms
-992,Amsterdam,"€2,100",88 m²,2 rooms
-993,Rotterdam,"€2,190",90 m²,3 rooms
-994,Almere,"€1,850",107 m²,6 rooms
-995,Amsterdam,"€2,400",72 m²,3 rooms
-996,Amstelveen,"€2,300",84 m²,3 rooms
-997,Den,"€3,250",95 m²,4 rooms
-998,Den,"€3,500",120 m²,3 rooms
-999,Rotterdam,"€1,300",20 m²,2 rooms
-1000,Arnhem,€899,50 m²,3 rooms
-1001,Maastricht,"€1,725",60 m²,1 room
-1002,Sittard,"€2,000",250 m²,3 rooms
-1003,Zaandam,"€1,900",90 m²,2 rooms
-1004,Beek,"€1,500",161 m²,5 rooms
-1005,Amstelveen,"€2,750",125 m²,5 rooms
-1006,Den,"€1,130",75 m²,3 rooms
-1007,Den,"€3,100",120 m²,3 rooms
-1008,Rotterdam,"€1,875",110 m²,3 rooms
-1009,Groede,"€1,150",99 m²,4 rooms
-1010,Leiden,"€2,400",115 m²,3 rooms
-1011,Meerssen,"€1,020",150 m²,4 rooms
-1012,Enschede,"€1,125",57 m²,4 rooms
-1013,Amsterdam,"€2,295",70 m²,3 rooms
-1014,Meppel,"€1,595",115 m²,3 rooms
-1015,Eindhoven,"€1,144",59 m²,3 rooms
-1016,Maastricht,"€1,795",149 m²,4 rooms
-1017,Den,"€1,550",77 m²,2 rooms
-1018,Eindhoven,"€1,041",50 m²,2 rooms
-1019,Bosch,"€3,000",122 m²,4 rooms
-1020,Zwolle,€415,11 m²,1 room
-1021,Helmond,"€1,275",75 m²,3 rooms
-1022,Muiden,"€3,250",118 m²,5 rooms
-1023,Amsterdam,"€3,150",101 m²,4 rooms
-1024,Amsterdam,"€2,100",88 m²,2 rooms
-1025,Amsterdam,"€4,500",223 m²,5 rooms
-1026,Amersfoort,"€1,035",52 m²,2 rooms
-1027,Amsterdam,"€2,700",59 m²,3 rooms
-1028,Maastricht,€615,38 m²,1 room
-1029,Nuenen,"€1,350",70 m²,3 rooms
-1030,Enschede,€465,15 m²,5 rooms
-1031,Enschede,€525,20 m²,1 room
-1032,Amsterdam,"€3,000",150 m²,6 rooms
-1033,Amsterdam,"€2,650",80 m²,3 rooms
-1034,Eindhoven,"€2,250",84 m²,3 rooms
-1035,Nieuwegein,"€1,995",130 m²,5 rooms
-1036,Zaandam,"€2,200",100 m²,3 rooms
-1037,Amsterdam,"€3,500",164 m²,4 rooms
-1038,Arnhem,"€1,550",103 m²,5 rooms
-1039,Gronsveld,"€1,190",85 m²,3 rooms
-1040,Amstelveen,"€4,250",179 m²,6 rooms
-1041,Vlissingen,"€1,150",93 m²,4 rooms
-1042,Sneek,"€1,650",175 m²,7 rooms
-1043,Amsterdam,"€3,100",113 m²,3 rooms
-1044,Amsterdam,"€2,495",68 m²,3 rooms
-1045,Tilburg,"€1,750",110 m²,4 rooms
-1046,Amsterdam,"€3,000",90 m²,3 rooms
-1047,Rotterdam,"€1,850",45 m²,2 rooms
-1048,Rotterdam,"€1,375",20 m²,1 room
-1049,Rotterdam,"€1,695",77 m²,3 rooms
-1050,Almere,"€1,350",120 m²,4 rooms
-1051,Den,"€3,000",170 m²,5 rooms
-1052,Voorburg,"€1,155",80 m²,3 rooms
-1053,Zaltbommel,"€1,995",115 m²,5 rooms
-1054,Den,"€2,150",94 m²,4 rooms
-1055,Heerlen,"€1,200",90 m²,4 rooms
-1056,Amsterdam,"€2,100",88 m²,2 rooms
-1057,Amsterdam,"€4,500",223 m²,5 rooms
-1058,Schiedam,€995,34 m²,1 room
-1059,Rotterdam,"€2,200",84 m²,3 rooms
-1060,Oudenbosch,€655,58 m²,2 rooms
-1061,Eindhoven,"€1,850",120 m²,3 rooms
-1062,Amstelveen,"€2,950",112 m²,5 rooms
-1063,Amsterdam,"€4,500",127 m²,5 rooms
-1064,Rotterdam,"€2,295",106 m²,4 rooms
-1065,Maastricht,"€2,650",125 m²,5 rooms
-1066,Eindhoven,"€1,895",70 m²,3 rooms
-1067,Eindhoven,"€1,325",46 m²,2 rooms
-1068,Den,"€3,500",148 m²,5 rooms
-1069,Den,"€2,200",105 m²,4 rooms
-1070,Amsterdam,"€2,800",104 m²,3 rooms
-1071,Veldhoven,"€1,495",69 m²,2 rooms
-1072,Almere,"€2,300",136 m²,4 rooms
-1073,Grubbenvorst,"€1,250",115 m²,4 rooms
-1074,Haarlem,"€1,895",75 m²,3 rooms
-1075,Haarlem,"€1,600",100 m²,4 rooms
-1076,Haarlem,"€1,800",120 m²,5 rooms
-1077,Amsterdam,"€2,200",57 m²,2 rooms
-1078,Rotterdam,"€1,495",71 m²,3 rooms
-1079,Amsterdam,"€2,250",58 m²,2 rooms
-1080,Maastricht,€640,29 m²,1 room
-1081,Eindhoven,"€1,250",88 m²,3 rooms
-1082,Maastricht,€795,26 m²,2 rooms
-1083,Amsterdam,"€3,500",110 m²,4 rooms
-1084,Amsterdam,"€3,250",100 m²,3 rooms
-1085,Hoofddorp,"€1,450",80 m²,3 rooms
-1086,Venray,"€1,026",93 m²,3 rooms
-1087,Den,"€2,400",102 m²,3 rooms
-1088,Rotterdam,"€2,190",90 m²,3 rooms
-1089,Amstelveen,"€2,750",69 m²,3 rooms
-1090,Veendam,€920,110 m²,4 rooms
-1091,Rotterdam,"€2,190",90 m²,3 rooms
-1092,Utrecht,"€2,055",106 m²,3 rooms
-1093,Maasbracht,"€3,450",261 m²,8 rooms
-1094,Den,"€4,500",255 m²,5 rooms
-1095,Roosendaal,€680,35 m²,2 rooms
-1096,Rotterdam,"€2,190",135 m²,4 rooms
-1097,Den,"€1,750",76 m²,3 rooms
-1098,Weesp,"€2,300",83 m²,5 rooms
-1099,Den,"€2,195",112 m²,3 rooms
-1100,Aalst,"€1,095",54 m²,3 rooms
-1101,Zoeterwoude,"€1,550",47 m²,2 rooms
-1102,Den,"€2,750",82 m²,3 rooms
-1103,Bloemendaal,"€1,995",123 m²,2 rooms
-1104,Den,"€2,450",106 m²,3 rooms
-1105,Amsterdam,"€7,500",140 m²,3 rooms
-1106,Hoofddorp,"€2,250",69 m²,2 rooms
-1107,Amsterdam,"€3,700",143 m²,3 rooms
-1108,Tilburg,"€1,399",71 m²,1 room
-1109,Amsterdam,"€2,350",80 m²,3 rooms
-1110,Heerlen,"€1,495",120 m²,4 rooms
-1111,Amsterdam,"€2,650",140 m²,7 rooms
-1112,Grou,"€1,150",129 m²,4 rooms
-1113,Amsterdam,"€3,500",70 m²,3 rooms
-1114,Roosendaal,€585,29 m²,2 rooms
-1115,Amsterdam,"€2,850",140 m²,3 rooms
-1116,Amsterdam,"€2,750",95 m²,3 rooms
-1117,Den,"€2,500",80 m²,3 rooms
-1118,Amsterdam,"€4,250",147 m²,4 rooms
-1119,Amsterdam,"€2,800",97 m²,3 rooms
-1120,Amsterdam,"€4,500",223 m²,5 rooms
-1121,Amsterdam,"€2,500",140 m²,5 rooms
-1122,Den,"€1,625",81 m²,3 rooms
-1123,Den,"€1,695",116 m²,3 rooms
-1124,Zwolle,€400,12 m²,1 room
-1125,Amstelveen,"€3,900",120 m²,5 rooms
-1126,Den,"€2,495",80 m²,3 rooms
-1127,Rotterdam,"€1,995",95 m²,3 rooms
-1128,Rotterdam,€995,24 m²,1 room
-1129,Leiden,"€3,500",155 m²,4 rooms
-1130,Amsterdam,"€2,650",83 m²,3 rooms
-1131,Veldhoven,"€1,450",75 m²,3 rooms
-1132,Zaandijk,"€1,300",63 m²,2 rooms
-1133,Amsterdam,"€2,750",112 m²,5 rooms
-1134,Sittard,€231,13 m²,1 room
-1135,Breda,"€2,650",200 m²,5 rooms
-1136,Diemen,"€1,075",77 m²,2 rooms
-1137,Diemen,"€1,075",77 m²,3 rooms
-1138,Diemen,"€1,075",77 m²,4 rooms
-1139,Diemen,"€1,075",77 m²,2 rooms
-1140,Diemen,"€1,075",77 m²,3 rooms
-1141,Diemen,"€1,075",77 m²,4 rooms
-1142,Zwolle,€971,43 m²,2 rooms
-1143,Zeist,"€1,750",110 m²,4 rooms
-1144,Amsterdam,"€2,750",110 m²,3 rooms
-1145,Amsterdam,"€4,250",150 m²,4 rooms
-1146,Tilburg,€425,13 m²,1 room
-1147,Amsterdam,"€2,350",70 m²,3 rooms
-1148,Schoonloo,€995,75 m²,4 rooms
-1149,Schiedam,"€1,600",84 m²,3 rooms
-1150,Amsterdam,"€1,850",90 m²,4 rooms
-1151,Rotterdam,"€1,460",79 m²,3 rooms
-1152,Rotterdam,"€2,190",90 m²,3 rooms
-1153,Amsterdam,"€2,500",140 m²,5 rooms
-1154,Tilburg,€655,21 m²,1 room
-1155,Tilburg,€450,20 m²,1 room
-1156,Tilburg,€495,22 m²,1 room
-1157,Tilburg,€425,18 m²,1 room
-1158,Tilburg,€450,17 m²,2 rooms
-1159,Tilburg,€525,30 m²,1 room
-1160,Rotterdam,"€1,795",72 m²,2 rooms
-1161,Rotterdam,"€2,195",80 m²,3 rooms
-1162,Almere,"€1,495",72 m²,2 rooms
-1163,Amsterdam,"€4,750",124 m²,4 rooms
-1164,Maastricht,"€2,350",200 m²,6 rooms
-1165,Amsterdam,"€4,500",215 m²,6 rooms
-1166,Eindhoven,"€1,086",72 m²,3 rooms
-1167,Amsterdam,"€2,250",107 m²,4 rooms
-1168,Tilburg,"€1,995",108 m²,4 rooms
-1169,Maastricht,"€1,750",143 m²,4 rooms
-1170,Hilversum,"€2,250",137 m²,4 rooms
-1171,Rijswijk,"€1,183",103 m²,3 rooms
-1172,Capelle,"€2,500",193 m²,5 rooms
-1173,Maassluis,"€1,595",90 m²,3 rooms
-1174,Rotterdam,"€2,650",142 m²,4 rooms
-1175,Rotterdam,"€2,195",115 m²,5 rooms
-1176,Capelle,"€1,700",115 m²,2 rooms
-1177,Almkerk,"€1,350",70 m²,2 rooms
-1178,Almere,"€2,168",92 m²,4 rooms
-1179,Oosterhout,"€2,000",98 m²,4 rooms
-1180,Hoorn,"€1,600",84 m²,2 rooms
-1181,Krimpen,"€2,800",226 m²,1 room
-1182,Amsterdam,"€2,150",91 m²,6 rooms
-1183,Westerhoven,"€1,295",78 m²,3 rooms
-1184,Amsterdam,"€4,500",223 m²,5 rooms
-1185,Amsterdam,"€2,100",88 m²,2 rooms
-1186,Lelystad,€800,62 m²,2 rooms
-1187,Asten,"€1,795",98 m²,3 rooms
-1188,Heerenveen,"€1,200",105 m²,4 rooms
-1189,Maastricht,€332,11 m²,1 room
-1190,Eindhoven,€753,35 m²,2 rooms
-1191,Eindhoven,"€1,850",90 m²,4 rooms
-1192,Zwolle,"€1,650",102 m²,4 rooms
-1193,Amsterdam,"€2,550",73 m²,3 rooms
-1194,Den,"€3,200",131 m²,4 rooms
-1195,Leiden,"€2,900",97 m²,3 rooms
-1196,Nijmegen,"€1,800",99 m²,4 rooms
-1197,Den,"€5,250",196 m²,8 rooms
-1198,Den,"€3,000",91 m²,3 rooms
-1199,Rotterdam,"€1,950",77 m²,3 rooms
-1200,Kampen,€950,90 m²,2 rooms
-1201,Zwolle,"€1,395",124 m²,3 rooms
-1202,Groningen,"€1,395",35 m²,2 rooms
-1203,Wijchen,"€1,150",90 m²,4 rooms
-1204,Amsterdam,"€2,450",43 m²,3 rooms
-1205,Amstelveen,"€2,400",100 m²,4 rooms
-1206,Rotterdam,€895,13 m²,1 room
-1207,Sittard,€700,35 m²,2 rooms
-1208,Naarden,"€3,500",155 m²,6 rooms
-1209,Amsterdam,"€4,950",170 m²,4 rooms
-1210,Den,"€2,250",61 m²,3 rooms
-1211,Almere,"€2,300",151 m²,4 rooms
-1212,IJsselstein,"€3,350",148 m²,5 rooms
-1213,Lelystad,"€3,300",117 m²,3 rooms
-1214,Amsterdam,"€2,750",120 m²,3 rooms
-1215,Utrecht,"€2,750",118 m²,4 rooms
-1216,Amsterdam,"€4,500",223 m²,5 rooms
-1217,Amsterdam,"€2,100",88 m²,2 rooms
-1218,Den,"€1,950",91 m²,3 rooms
-1219,Eindhoven,€975,30 m²,1 room
-1220,Breda,"€1,450",85 m²,3 rooms
-1221,Enschede,"€1,100",36 m²,2 rooms
-1222,Amsterdam,"€2,750",99 m²,3 rooms
-1223,Veldhoven,"€1,525",65 m²,3 rooms
-1224,Amsterdam,"€5,200",138 m²,5 rooms
-1225,Eindhoven,Price,87 m²,3 rooms
-1226,Eindhoven,"€1,510",84 m²,3 rooms
-1227,Rotterdam,"€2,995",145 m²,6 rooms
-1228,Amsterdam,"€3,750",122 m²,4 rooms
-1229,Amsterdam,"€6,000",200 m²,7 rooms
-1230,Maastricht,"€1,950",75 m²,4 rooms
-1231,Zaandam,"€2,750",121 m²,5 rooms
-1232,Capelle,"€2,550",143 m²,3 rooms
-1233,Breda,"€1,350",65 m²,3 rooms
-1234,Utrecht,"€3,150",145 m²,4 rooms
-1235,Breda,"€1,500",104 m²,2 rooms
-1236,Rotterdam,"€3,400",126 m²,3 rooms
-1237,Middelburg,"€1,075",125 m²,3 rooms
-1238,Delft,"€1,850",105 m²,4 rooms
-1239,Sint-Michielsgestel,"€1,650",135 m²,5 rooms
-1240,Amersfoort,€835,35 m²,1 room
-1241,Voorburg,€425,30 m²,1 room
-1242,Zwolle,€384,12 m²,1 room
-1243,Amsterdam,"€2,100",136 m²,4 rooms
-1244,Amsterdam,"€2,950",87 m²,3 rooms
-1245,Ridderkerk,"€1,650",120 m²,3 rooms
-1246,Hoornaar,"€1,850",100 m²,3 rooms
-1247,Rotterdam,"€2,600",106 m²,6 rooms
-1248,Amsterdam,"€2,100",88 m²,2 rooms
-1249,Amstelveen,"€2,750",69 m²,3 rooms
-1250,Amsterdam,"€3,250",98 m²,4 rooms
-1251,Den,€995,70 m²,3 rooms
-1252,Lent,"€1,695",152 m²,4 rooms
-1253,Utrecht,"€2,395",108 m²,3 rooms
-1254,Hoofddorp,"€2,850",102 m²,3 rooms
-1255,Kampen,"€1,110",60 m²,1 room
-1256,Leersum,Price,45 m²,2 rooms
-1257,Rotterdam,€850,58 m²,2 rooms
-1258,Muiden,"€3,250",130 m²,4 rooms
-1259,Tilburg,"€3,850",261 m²,7 rooms
-1260,Tilburg,"€1,622",88 m²,2 rooms
-1261,Nieuwerkerk,"€1,750",106 m²,4 rooms
-1262,Hilversum,"€2,650",160 m²,5 rooms
-1263,Almere,"€1,950",102 m²,5 rooms
-1264,Den,"€3,125",91 m²,3 rooms
-1265,Rotterdam,"€3,254",83 m²,3 rooms
-1266,Amsterdam,"€2,950",130 m²,5 rooms
-1267,Utrecht,"€2,500",110 m²,5 rooms
-1268,Amsterdam,"€9,900",233 m²,5 rooms
-1269,Amsterdam,"€3,200",96 m²,4 rooms
-1270,Amsterdam,"€3,750",130 m²,3 rooms
-1271,Leiden,"€2,250",126 m²,5 rooms
-1272,Amsterdam,"€2,500",134 m²,4 rooms
-1273,Amstelveen,"€3,950",135 m²,4 rooms
-1274,Breda,"€2,450",138 m²,5 rooms
-1275,Rotterdam,"€2,500",136 m²,3 rooms
-1276,Deventer,"€1,900",153 m²,3 rooms
-1277,Leiden,"€1,995",75 m²,3 rooms
-1278,Den,"€2,750",120 m²,3 rooms
-1279,Leiden,"€3,250",114 m²,3 rooms
-1280,Rotterdam,"€2,190",90 m²,3 rooms
-1281,Amsterdam,"€2,100",88 m²,2 rooms
-1282,Leiden,"€2,900",97 m²,3 rooms
-1283,Terhole,€665,44 m²,2 rooms
-1284,Den,"€2,400",145 m²,3 rooms
-1285,Den,"€1,150",83 m²,4 rooms
-1286,Maastricht,"€1,003",16 m²,1 room
-1287,Eindhoven,"€1,200",45 m²,2 rooms
-1288,Breda,"€2,250",95 m²,4 rooms
-1289,Amsterdam,"€2,950",55 m²,3 rooms
-1290,Eindhoven,"€1,475",81 m²,2 rooms
-1291,Middelburg,"€1,385",74 m²,3 rooms
-1292,Harderwijk,"€3,250",239 m²,8 rooms
-1293,Amstelveen,"€2,950",127 m²,4 rooms
-1294,Amsterdam,"€2,650",94 m²,4 rooms
-1295,Capelle,"€2,495",135 m²,5 rooms
-1296,Amstelveen,"€4,500",190 m²,4 rooms
-1297,Delfgauw,"€2,700",125 m²,3 rooms
-1298,Almere,"€1,950",110 m²,5 rooms
-1299,Zoeterwoude,€615,9 m²,1 room
-1300,Nuenen,"€1,800",125 m²,4 rooms
-1301,Veendam,€950,110 m²,5 rooms
-1302,Rotterdam,"€2,200",71 m²,3 rooms
-1303,Amstelveen,"€4,500",165 m²,6 rooms
-1304,Amsterdam,"€3,250",95 m²,3 rooms
-1305,Haarlem,"€2,845",93 m²,3 rooms
-1306,Leeuwarden,€625,25 m²,1 room
-1307,Amsterdam,"€2,750",58 m²,3 rooms
-1308,Reuver,"€1,275",75 m²,3 rooms
-1309,Roosendaal,€735,26 m²,1 room
-1310,Amsterdam,"€2,900",117 m²,4 rooms
-1311,Den,"€3,250",152 m²,5 rooms
-1312,Amsterdam,"€2,500",140 m²,5 rooms
-1313,Amstelveen,"€2,750",69 m²,3 rooms
-1314,Den,"€2,400",103 m²,3 rooms
-1315,Eindhoven,"€2,295",165 m²,5 rooms
-1316,Den,"€2,400",108 m²,3 rooms
-1317,Zoeterwoude,€690,15 m²,1 room
-1318,Waalre,"€1,500",120 m²,4 rooms
-1319,Rotterdam,"€1,550",90 m²,3 rooms
-1320,Hilversum,"€1,495",75 m²,2 rooms
-1321,Eindhoven,"€1,375",78 m²,3 rooms
-1322,Amsterdam,"€2,750",76 m²,3 rooms
-1323,Utrecht,"€2,145",85 m²,3 rooms
-1324,Amsterdam,"€2,900",78 m²,3 rooms
-1325,Delft,"€1,500",45 m²,3 rooms
-1326,Beinsdorp,"€7,000",248 m²,6 rooms
-1327,Den,€450,12 m²,1 room
-1328,Leiden,"€2,250",100 m²,3 rooms
-1329,Eindhoven,"€1,400",46 m²,2 rooms
-1330,Breda,€900,35 m²,1 room
-1331,Culemborg,"€2,100",146 m²,5 rooms
-1332,Den,"€3,500",120 m²,4 rooms
-1333,Leiden,€715,20 m²,1 room
-1334,Delft,"€1,600",65 m²,2 rooms
-1335,Rotterdam,"€2,795",99 m²,4 rooms
-1336,Rotterdam,"€1,950",65 m²,2 rooms
-1337,Vlissingen,€815,67 m²,1 room
-1338,Eindhoven,"€1,295",62 m²,2 rooms
-1339,Utrecht,"€2,650",185 m²,5 rooms
-1340,Amsterdam,"€2,750",75 m²,2 rooms
-1341,Amsterdam,"€8,250",200 m²,5 rooms
-1342,Den,"€5,250",269 m²,10 rooms
-1343,Den,"€3,600",160 m²,6 rooms
-1344,Rotterdam,"€2,190",90 m²,3 rooms
-1345,Amsterdam,"€4,500",223 m²,5 rooms
-1346,Den,"€3,000",120 m²,6 rooms
-1347,Amsterdam,"€6,000",147 m²,5 rooms
-1348,Amsterdam,"€4,950",190 m²,6 rooms
-1349,Arnhem,€900,65 m²,2 rooms
-1350,Amsterdam,"€2,300",64 m²,2 rooms
-1351,Amsterdam,"€4,500",91 m²,5 rooms
-1352,Amsterdam,"€2,200",72 m²,2 rooms
-1353,Berkel,"€3,500",253 m²,6 rooms
-1354,Roosendaal,€875,71 m²,3 rooms
-1355,Rotterdam,"€1,850",64 m²,2 rooms
-1356,Rotterdam,"€2,600",85 m²,3 rooms
-1357,Bergen,"€1,005",40 m²,1 room
-1358,Amsterdam,"€4,950",173 m²,6 rooms
-1359,Rotterdam,"€2,195",105 m²,3 rooms
-1360,Haarlem,"€5,995",220 m²,6 rooms
-1361,Amsterdam,"€2,995",70 m²,3 rooms
-1362,Amsterdam,"€3,000",72 m²,4 rooms
-1363,Den,"€1,490",83 m²,2 rooms
-1364,Rotterdam,€850,52 m²,2 rooms
-1365,Rotterdam,"€3,600",137 m²,4 rooms
-1366,Roosendaal,€895,52 m²,2 rooms
-1367,Vlissingen,€975,68 m²,2 rooms
-1368,Zaandijk,Price,40 m²,1 room
-1369,Amstelveen,"€1,950",79 m²,3 rooms
-1370,Amstelveen,"€2,500",130 m²,5 rooms
-1371,Groningen,"€2,250",180 m²,7 rooms
-1372,Maastricht,"€1,995",119 m²,6 rooms
-1373,Zutphen,"€1,055",60 m²,2 rooms
-1374,Rotterdam,"€1,995",105 m²,5 rooms
-1375,Den,"€2,450",79 m²,3 rooms
-1376,Amsterdam,"€2,500",140 m²,5 rooms
-1377,Rotterdam,"€2,190",90 m²,3 rooms
-1378,Groningen,"€1,150",36 m²,2 rooms
-1379,Amsterdam,"€2,500",70 m²,3 rooms
-1380,Groningen,"€1,550",55 m²,2 rooms
-1381,Amsterdam,"€2,200",69 m²,3 rooms
-1382,Bergen,"€2,000",89 m²,3 rooms
-1383,Eindhoven,"€1,750",126 m²,4 rooms
-1384,Eindhoven,"€1,700",60 m²,2 rooms
-1385,Abcoude,"€2,950",155 m²,5 rooms
-1386,Maastricht,"€1,775",124 m²,1 room
-1387,Utrecht,"€1,650",38 m²,2 rooms
-1388,Amsterdam,"€2,750",102 m²,3 rooms
-1389,Maastricht,"€2,650",95 m²,2 rooms
-1390,Roosendaal,"€1,015",72 m²,2 rooms
-1391,Amstelveen,"€2,250",114 m²,4 rooms
-1392,Almere,"€2,000",104 m²,5 rooms
-1393,Breda,"€2,500",127 m²,5 rooms
-1394,Amsterdam,"€2,500",85 m²,3 rooms
-1395,Amsterdam,"€4,500",120 m²,5 rooms
-1396,Tilburg,€921,37 m²,1 room
-1397,Eindhoven,"€1,450",65 m²,3 rooms
-1398,Waalre,"€1,495",86 m²,3 rooms
-1399,Maastricht,"€2,050",136 m²,4 rooms
-1400,Tilburg,€895,30 m²,2 rooms
-1401,Amsterdam,"€2,950",111 m²,4 rooms
-1402,Amsterdam,"€2,500",88 m²,2 rooms
-1403,Eindhoven,"€2,295",135 m²,7 rooms
-1404,Hendrik-Ido-Ambacht,"€2,445",125 m²,4 rooms
-1405,Amsterdam,"€4,500",223 m²,5 rooms
-1406,Eindhoven,"€1,850",138 m²,4 rooms
-1407,Eindhoven,"€2,350",137 m²,4 rooms
-1408,Amsterdam,"€2,500",140 m²,5 rooms
-1409,Amsterdam,"€2,100",88 m²,2 rooms
-1410,Geldrop,"€2,500",190 m²,4 rooms
-1411,Nijmegen,"€1,750",91 m²,2 rooms
-1412,Rotterdam,"€1,995",82 m²,2 rooms
-1413,Den,"€2,750",150 m²,5 rooms
-1414,Nijmegen,"€1,700",68 m²,3 rooms
-1415,Oss,€425,10 m²,1 room
-1416,Rotterdam,"€2,395",91 m²,3 rooms
-1417,Roosendaal,"€1,775",73 m²,3 rooms
-1418,Terheijden,"€1,495",130 m²,3 rooms
-1419,Alkmaar,"€1,700",116 m²,4 rooms
-1420,Leeuwarden,"€1,175",74 m²,3 rooms
-1421,Haarlem,"€2,350",80 m²,4 rooms
-1422,Velp,€525,18 m²,1 room
-1423,Noordwijk,"€1,495",86 m²,4 rooms
-1424,Lobith,€300,70 m²,2 rooms
-1425,Hilversum,"€2,750",105 m²,4 rooms
-1426,Laren,"€6,500",197 m²,4 rooms
-1427,Huizen,"€3,250",185 m²,6 rooms
-1428,Schaijk,€985,40 m²,3 rooms
-1429,Rotterdam,"€2,139",147 m²,3 rooms
-1430,Rotterdam,"€1,495",35 m²,2 rooms
-1431,Amstelveen,"€2,350",110 m²,5 rooms
-1432,Amsterdam,"€5,500",114 m²,3 rooms
-1433,Amsterdam,"€2,350",102 m²,4 rooms
-1434,Amsterdam,"€5,500",174 m²,6 rooms
-1435,Arnhem,€480,12 m²,1 room
-1436,Amsterdam,"€3,850",170 m²,4 rooms
-1437,Eindhoven,"€1,600",73 m²,2 rooms
-1438,Rotterdam,"€2,250",82 m²,2 rooms
-1439,Rotterdam,"€2,300",103 m²,4 rooms
-1440,Amsterdam,"€2,100",88 m²,2 rooms
-1441,Rotterdam,"€2,190",90 m²,3 rooms
-1442,Rotterdam,"€2,950",129 m²,4 rooms
-1443,Helmond,"€1,300",53 m²,2 rooms
-1444,Rotterdam,"€1,995",81 m²,2 rooms
-1445,Nuenen,"€1,995",118 m²,4 rooms
-1446,Waalre,"€1,700",82 m²,4 rooms
-1447,Amsterdam,"€2,500",80 m²,3 rooms
-1448,Scherpenisse,"€1,500",115 m²,4 rooms
-1449,Geleen,€695,45 m²,1 room
-1450,Uithoorn,"€3,150",194 m²,5 rooms
-1451,Den,€932,63 m²,2 rooms
-1452,Amsterdam,"€6,000",313 m²,7 rooms
-1453,Amsterdam,"€7,000",184 m²,3 rooms
-1454,Amsterdam,"€3,000",85 m²,3 rooms
-1455,Amsterdam,"€1,950",85 m²,3 rooms
-1456,Zaandam,"€1,995",95 m²,3 rooms
-1457,Rotterdam,"€1,445",85 m²,2 rooms
-1458,Alkmaar,"€1,795",125 m²,3 rooms
-1459,Zoetermeer,"€1,950",104 m²,3 rooms
-1460,Nijmegen,€795,48 m²,1 room
-1461,Tilburg,"€2,595",175 m²,3 rooms
-1462,Rotterdam,"€3,500",190 m²,4 rooms
-1463,Eindhoven,"€2,395",100 m²,3 rooms
-1464,Middelburg,"€1,375",113 m²,5 rooms
-1465,Tilburg,€825,18 m²,1 room
-1466,Utrecht,"€2,500",88 m²,3 rooms
-1467,Amsterdam,"€2,600",100 m²,3 rooms
-1468,Breda,"€1,195",86 m²,3 rooms
-1469,Goes,"€1,900",122 m²,5 rooms
-1470,Hoogeveen,€595,25 m²,1 room
-1471,Amsterdam,"€8,500",240 m²,7 rooms
-1472,Amsterdam,"€2,500",140 m²,5 rooms
-1473,Rotterdam,"€2,190",90 m²,3 rooms
-1474,Rotterdam,"€3,250",121 m²,3 rooms
-1475,Dronryp,€845,60 m²,2 rooms
-1476,Demen,"€1,175",60 m²,2 rooms
-1477,Wessem,€290,35 m²,2 rooms
-1478,Assen,"€1,450",130 m²,4 rooms
-1479,Oud-Beijerland,"€1,950",77 m²,3 rooms
-1480,Winschoten,€750,45 m²,2 rooms
-1481,Den,"€3,995",170 m²,4 rooms
-1482,Roodeschool,"€3,600",625 m²,10 rooms
-1483,Delfzijl,"€5,000",88 m²,4 rooms
-1484,Spijk,"€3,600",105 m²,5 rooms
-1485,Delft,"€1,400",45 m²,2 rooms
-1486,Delft,"€1,250",30 m²,1 room
-1487,Heerlen,€875,74 m²,3 rooms
-1488,Waalre,"€1,495",88 m²,3 rooms
-1489,Amstelveen,"€3,250",145 m²,5 rooms
-1490,Gouda,"€1,500",89 m²,4 rooms
-1491,Bergen,"€1,785",132 m²,5 rooms
-1492,Utrecht,"€2,300",138 m²,6 rooms
-1493,Eindhoven,"€1,700",103 m²,3 rooms
-1494,Lattrop-Breklenkamp,"€1,295",150 m²,7 rooms
-1495,Leiden,"€2,650",190 m²,6 rooms
-1496,Eindhoven,"€1,975",123 m²,5 rooms
-1497,Eindhoven,"€1,695",90 m²,3 rooms
-1498,Leeuwarden,€925,60 m²,3 rooms
-1499,Amsterdam,"€2,450",87 m²,3 rooms
-1500,Benthuizen,"€1,750",123 m²,4 rooms
-1501,Dronten,"€1,550",118 m²,5 rooms
-1502,Dronten,"€1,550",118 m²,5 rooms
-1503,Amsterdam,"€2,850",92 m²,3 rooms
-1504,Amstelveen,"€2,750",69 m²,3 rooms
-1505,Amsterdam,"€2,500",140 m²,5 rooms
-1506,Heerlen,€140,25 m²,1 room
-1507,Amsterdam,"€3,250",105 m²,4 rooms
-1508,Almere,"€3,000",187 m²,7 rooms
-1509,Amstelveen,"€4,500",179 m²,6 rooms
-1510,Rotterdam,"€1,795",88 m²,2 rooms
-1511,Rotterdam,"€2,100",93 m²,3 rooms
-1512,Amsterdam,"€1,900",45 m²,2 rooms
-1513,Leiden,"€1,405",50 m²,2 rooms
-1514,Schinnen,"€3,500",264 m²,7 rooms
-1515,Den,"€2,250",131 m²,4 rooms
-1516,Gouda,"€1,495",90 m²,2 rooms
-1517,Purmerend,"€2,200",126 m²,6 rooms
-1518,Delft,"€1,400",30 m²,2 rooms
-1519,Hoensbroek,€230,13 m²,9 rooms
-1520,Tilburg,"€1,175",64 m²,2 rooms
-1521,Bergen,€875,60 m²,5 rooms
-1522,Purmerend,"€2,150",124 m²,4 rooms
-1523,Amstelveen,"€2,500",95 m²,3 rooms
-1524,Poeldijk,"€1,500",94 m²,4 rooms
-1525,Eindhoven,"€1,700",60 m²,2 rooms
-1526,Rotterdam,"€1,995",86 m²,3 rooms
-1527,Den,"€2,495",91 m²,4 rooms
-1528,Amsterdam,"€3,850",116 m²,4 rooms
-1529,Sint-Annaland,"€1,250",95 m²,2 rooms
-1530,Maastricht,"€2,550",130 m²,6 rooms
-1531,Amsterdam,"€5,500",177 m²,4 rooms
-1532,Eindhoven,"€1,700",54 m²,2 rooms
-1533,Amsterdam,"€2,650",92 m²,3 rooms
-1534,Amsterdam,"€3,750",120 m²,4 rooms
-1535,Arnhem,€920,25 m²,1 room
-1536,Rotterdam,"€2,190",90 m²,3 rooms
-1537,Amsterdam,"€2,100",88 m²,2 rooms
-1538,Arnhem,"€1,195",31 m²,2 rooms
-1539,Amsterdam,"€1,950",65 m²,2 rooms
-1540,Rotterdam,"€2,300",125 m²,3 rooms
-1541,Apeldoorn,€967,93 m²,4 rooms
-1542,Amstelveen,"€2,250",79 m²,3 rooms
-1543,Apeldoorn,€948,93 m²,4 rooms
-1544,Apeldoorn,€916,93 m²,4 rooms
-1545,Den,€775,32 m²,2 rooms
-1546,Eindhoven,"€2,295",140 m²,4 rooms
-1547,Den,"€2,450",125 m²,5 rooms
-1548,Amsterdam,"€4,000",132 m²,5 rooms
-1549,Warmond,"€1,850",65 m²,3 rooms
-1550,Amsterdam,"€5,000",144 m²,4 rooms
-1551,Groningen,"€1,350",66 m²,2 rooms
-1552,Rotterdam,"€3,500",200 m²,6 rooms
-1553,Amsterdam,"€2,999",148 m²,5 rooms
-1554,Den,"€2,300",100 m²,3 rooms
-1555,Den,"€1,225",42 m²,3 rooms
-1556,Arnhem,"€1,450",90 m²,3 rooms
-1557,Amsterdam,"€2,550",92 m²,2 rooms
-1558,Asten,"€1,425",117 m²,5 rooms
-1559,Amsterdam,"€2,200",55 m²,3 rooms
-1560,Amsterdam,"€1,659",50 m²,1 room
-1561,Breda,"€2,375",150 m²,6 rooms
-1562,Katwijk,"€1,850",97 m²,4 rooms
-1563,Den,€750,26 m²,2 rooms
-1564,Den,€750,29 m²,1 room
-1565,Amsterdam,"€1,176",58 m²,2 rooms
-1566,Den,"€3,650",200 m²,3 rooms
-1567,Bussum,"€1,050",112 m²,5 rooms
-1568,Amstelveen,"€2,750",69 m²,3 rooms
-1569,Amsterdam,"€2,100",88 m²,2 rooms
-1570,Den,"€4,500",201 m²,8 rooms
-1571,Den,"€1,480",50 m²,3 rooms
-1572,Utrecht,"€1,995",140 m²,5 rooms
-1573,Amsterdam,"€1,550",54 m²,3 rooms
-1574,Den,"€1,000",37 m²,2 rooms
-1575,Den,€450,13 m²,1 room
-1576,Veldhoven,"€1,850",88 m²,5 rooms
-1577,Eindhoven,"€2,750",150 m²,5 rooms
-1578,Leiden,"€2,150",70 m²,3 rooms
-1579,Eindhoven,"€2,500",103 m²,3 rooms
-1580,Aarle-Rixtel,"€2,750",215 m²,6 rooms
-1581,Hilversum,"€1,600",39 m²,2 rooms
-1582,Leeuwarden,€850,63 m²,2 rooms
-1583,Leiden,€880,31 m²,1 room
-1584,Hilversum,"€2,950",146 m²,4 rooms
-1585,Valkenburg,"€1,590",120 m²,4 rooms
-1586,Hilversum,"€2,500",138 m²,6 rooms
-1587,Hilversum,"€2,850",118 m²,5 rooms
-1588,Amstelveen,"€2,500",100 m²,3 rooms
-1589,Westernieland,"€1,350",80 m²,3 rooms
-1590,Best,"€1,750",102 m²,5 rooms
-1591,Fijnaart,"€1,225",116 m²,4 rooms
-1592,Maastricht,"€1,600",70 m²,2 rooms
-1593,Rotterdam,"€1,841",118 m²,4 rooms
-1594,Den,€375,8 m²,1 room
-1595,Veldhoven,"€1,650",95 m²,5 rooms
-1596,Veldhoven,"€1,475",70 m²,3 rooms
-1597,Velden,"€1,250",84 m²,3 rooms
-1598,Den,€595,16 m²,1 room
-1599,Barendrecht,"€1,750",98 m²,3 rooms
-1600,Amstelveen,"€2,750",69 m²,3 rooms
-1601,Amsterdam,"€2,100",88 m²,2 rooms
-1602,Den,€695,12 m²,1 room
-1603,Den,"€1,075",31 m²,2 rooms
-1604,Amsterdam,"€2,750",100 m²,4 rooms
-1605,Den,"€2,250",89 m²,4 rooms
-1606,Rotterdam,€795,15 m²,1 room
-1607,Beek,"€1,495",131 m²,3 rooms
-1608,Rotterdam,€900,28 m²,1 room
-1609,Leeuwarden,€555,40 m²,2 rooms
-1610,Roermond,€780,53 m²,2 rooms
-1611,Den,€730,21 m²,2 rooms
-1612,Eindhoven,"€2,350",117 m²,5 rooms
-1613,Eindhoven,"€1,795",107 m²,4 rooms
-1614,Amsterdam,"€2,050",90 m²,3 rooms
-1615,Eindhoven,"€2,295",135 m²,5 rooms
-1616,Veldhoven,"€1,795",112 m²,5 rooms
-1617,Roermond,"€1,057",65 m²,2 rooms
-1618,Amstelveen,"€2,400",90 m²,3 rooms
-1619,Breda,"€1,375",65 m²,3 rooms
-1620,Eersel,"€3,500",152 m²,4 rooms
-1621,Amsterdam,"€3,500",81 m²,3 rooms
-1622,Amsterdam,"€2,050",62 m²,2 rooms
-1623,Amsterdam,"€3,500",150 m²,3 rooms
-1624,Prinsenbeek,"€2,595",180 m²,6 rooms
-1625,Ysselsteyn,€975,54 m²,2 rooms
-1626,Rotterdam,"€1,895",79 m²,2 rooms
-1627,Den,"€2,395",95 m²,3 rooms
-1628,Leiden,"€2,320",121 m²,3 rooms
-1629,Amsterdam,"€1,890",73 m²,2 rooms
-1630,Amersfoort,"€1,595",144 m²,5 rooms
-1631,Amsterdam,"€3,750",169 m²,4 rooms
-1632,Amsterdam,"€2,500",140 m²,5 rooms
-1633,Amstelveen,"€2,750",69 m²,3 rooms
-1634,Den,"€2,400",158 m²,4 rooms
-1635,Den,"€1,775",80 m²,3 rooms
-1636,Amsterdam,"€2,115",80 m²,2 rooms
-1637,Eindhoven,"€1,495",85 m²,3 rooms
-1638,Den,"€2,350",100 m²,3 rooms
-1639,Voorburg,"€2,500",160 m²,5 rooms
-1640,Amsterdam,"€2,850",95 m²,3 rooms
-1641,Amsterdam,"€3,000",112 m²,4 rooms
-1642,Eindhoven,"€1,600",94 m²,3 rooms
-1643,Den,"€2,500",85 m²,3 rooms
-1644,Amsterdam,"€3,250",75 m²,3 rooms
-1645,Nuth,"€1,350",108 m²,5 rooms
-1646,De,"€1,350",70 m²,3 rooms
-1647,Nootdorp,"€1,450",100 m²,3 rooms
-1648,Muiderberg,"€2,100",109 m²,4 rooms
-1649,Muiderberg,"€3,000",140 m²,6 rooms
-1650,Heemstede,"€4,250",160 m²,7 rooms
-1651,Utrecht,"€2,095",65 m²,2 rooms
-1652,Rotterdam,"€2,450",80 m²,2 rooms
-1653,Den,"€2,300",128 m²,4 rooms
-1654,Maastricht,"€1,595",120 m²,6 rooms
-1655,Amsterdam,"€4,250",180 m²,4 rooms
-1656,Amsterdam,"€4,000",167 m²,3 rooms
-1657,Tilburg,"€1,150",60 m²,3 rooms
-1658,Deventer,"€1,295",111 m²,4 rooms
-1659,Rotterdam,"€2,095",95 m²,3 rooms
-1660,Eindhoven,"€1,800",120 m²,5 rooms
-1661,Rotterdam,"€1,995",72 m²,3 rooms
-1662,Wouw,"€1,350",157 m²,4 rooms
-1663,Den,"€1,350",121 m²,5 rooms
-1664,Amsterdam,"€2,100",88 m²,2 rooms
-1665,Amsterdam,"€4,500",223 m²,5 rooms
-1666,Julianadorp,"€2,199",186 m²,5 rooms
-1667,Amstelveen,"€2,550",104 m²,3 rooms
-1668,Middenbeemster,"€1,995",140 m²,4 rooms
-1669,Amsterdam,"€1,892",86 m²,4 rooms
-1670,Amsterdam,"€1,731",81 m²,3 rooms
-1671,Haarlem,"€1,665",88 m²,3 rooms
-1672,Haarlem,"€1,590",91 m²,3 rooms
-1673,Amsterdam,"€1,728",74 m²,3 rooms
-1674,Amsterdam,"€4,700",162 m²,3 rooms
-1675,Horst,"€1,090",110 m²,3 rooms
-1676,Halsteren,"€1,135",120 m²,5 rooms
-1677,Maastricht,€995,80 m²,3 rooms
-1678,Eindhoven,€850,43 m²,2 rooms
-1679,Eindhoven,"€1,850",112 m²,3 rooms
-1680,Stadskanaal,€570,20 m²,1 room
-1681,Eindhoven,€938,51 m²,2 rooms
-1682,Genemuiden,"€1,500",127 m²,2 rooms
-1683,Eijsden,€820,30 m²,1 room
-1684,Den,"€7,500",283 m²,5 rooms
-1685,Zeist,"€1,472",47 m²,3 rooms
-1686,Haarlem,"€1,400",35 m²,2 rooms
-1687,Haarlem,"€1,600",40 m²,2 rooms
-1688,Haarlem,"€1,800",40 m²,2 rooms
-1689,Rotterdam,€765,18 m²,1 room
-1690,Almere,"€2,775",180 m²,4 rooms
-1691,Enschede,"€1,900",102 m²,4 rooms
-1692,Amsterdam,"€2,750",95 m²,3 rooms
-1693,Amsterdam,"€3,750",101 m²,4 rooms
-1694,Eindhoven,"€2,200",127 m²,4 rooms
-1695,Amsterdam,"€10,000",207 m²,3 rooms
-1696,Amsterdam,"€4,500",223 m²,5 rooms
-1697,Amsterdam,"€2,100",88 m²,2 rooms
-1698,Leiden,"€1,750",80 m²,3 rooms
-1699,Leiden,"€2,100",75 m²,3 rooms
-1700,Eindhoven,"€1,700",83 m²,3 rooms
-1701,Weurt,"€2,000",150 m²,6 rooms
-1702,Etten-Leur,€290,30 m²,1 room
-1703,Leeuwarden,€610,20 m²,1 room
-1704,Tilburg,€725,20 m²,1 room
-1705,Amsterdam,"€3,500",163 m²,5 rooms
-1706,Amstelveen,"€2,650",100 m²,3 rooms
-1707,Veldhoven,"€1,700",100 m²,3 rooms
-1708,Utrecht,"€1,495",60 m²,2 rooms
-1709,Almere,"€2,900",223 m²,4 rooms
-1710,Abcoude,"€2,800",116 m²,4 rooms
-1711,Eindhoven,"€1,275",60 m²,2 rooms
-1712,Eindhoven,"€1,695",115 m²,4 rooms
-1713,Rotterdam,"€2,000",70 m²,3 rooms
-1714,Den,"€2,200",95 m²,3 rooms
-1715,Den,"€1,270",62 m²,2 rooms
-1716,Velp,€585,14 m²,1 room
-1717,Maastricht,"€1,500",47 m²,2 rooms
-1718,Gaanderen,€870,55 m²,2 rooms
-1719,Utrecht,"€2,495",120 m²,3 rooms
-1720,Den,"€3,200",150 m²,6 rooms
-1721,Utrecht,"€1,695",65 m²,3 rooms
-1722,Rotterdam,"€2,050",91 m²,3 rooms
-1723,Rotterdam,"€1,495",100 m²,4 rooms
-1724,Amsterdam,"€4,250",132 m²,4 rooms
-1725,Amsterdam,"€2,500",57 m²,3 rooms
-1726,Almere,"€2,399",130 m²,4 rooms
-1727,Amsterdam,"€2,650",78 m²,2 rooms
-1728,Amsterdam,"€2,500",140 m²,5 rooms
-1729,Amsterdam,"€4,500",223 m²,5 rooms
-1730,Heemstede,"€1,400",97 m²,3 rooms
-1731,Bergen,€745,25 m²,1 room
-1732,Utrecht,"€2,500",116 m²,3 rooms
-1733,Amsterdam,"€3,750",130 m²,4 rooms
-1734,Budel,"€1,470",112 m²,5 rooms
-1735,Den,"€2,750",136 m²,4 rooms
-1736,Rotterdam,"€1,675",97 m²,4 rooms
-1737,Amsterdam,"€2,100",56 m²,2 rooms
-1738,Haarlem,"€1,930",92 m²,3 rooms
-1739,Amsterdam,"€4,500",174 m²,6 rooms
-1740,Den,"€2,000",78 m²,3 rooms
-1741,Hoorn,"€2,150",87 m²,3 rooms
-1742,Duiven,"€1,071",68 m²,3 rooms
-1743,Hengelo,€716,41 m²,1 room
-1744,Capelle,"€4,500",158 m²,6 rooms
-1745,Nijmegen,"€1,150",55 m²,2 rooms
-1746,Amsterdam,"€2,900",140 m²,4 rooms
-1747,Den,"€1,400",65 m²,1 room
-1748,Harderwijk,"€1,215",43 m²,2 rooms
-1749,Eindhoven,"€1,495",65 m²,2 rooms
-1750,Valkenswaard,"€1,350",120 m²,3 rooms
-1751,Amsterdam,"€3,000",82 m²,4 rooms
-1752,Leeuwarden,"€1,595",70 m²,2 rooms
-1753,Amsterdam,"€9,500",296 m²,6 rooms
-1754,Valkenswaard,"€2,795",174 m²,3 rooms
-1755,Rotterdam,€925,25 m²,1 room
-1756,Leeuwarden,Price,70 m²,2 rooms
-1757,Rotterdam,"€3,490",144 m²,4 rooms
-1758,Rotterdam,"€1,695",60 m²,2 rooms
-1759,Rotterdam,"€1,750",92 m²,3 rooms
-1760,Amstelveen,"€2,750",69 m²,3 rooms
-1761,Amsterdam,"€2,500",140 m²,5 rooms
-1762,Roermond,"€1,175",65 m²,3 rooms
-1763,Amsterdam,"€2,450",90 m²,1 room
-1764,Eindhoven,"€1,995",120 m²,4 rooms
-1765,Almere,"€2,500",188 m²,5 rooms
-1766,Roosendaal,€945,78 m²,2 rooms
-1767,Katwijk,"€1,295",70 m²,2 rooms
-1768,Almere,"€3,200",145 m²,5 rooms
-1769,Amsterdam,"€2,850",126 m²,3 rooms
-1770,Voorst,€400,70 m²,3 rooms
-1771,Amsterdam,"€2,600",68 m²,3 rooms
-1772,Oudeschoot,€327,13 m²,1 room
-1773,Scherpenisse,"€1,700",85 m²,2 rooms
-1774,Den,"€1,995",36 m²,2 rooms
-1775,Brunssum,€895,92 m²,3 rooms
-1776,Wassenaar,"€7,750",460 m²,9 rooms
-1777,Geldrop,"€1,750",94 m²,3 rooms
-1778,Zaandam,"€1,845",90 m²,3 rooms
-1779,Rotterdam,"€2,500",91 m²,3 rooms
-1780,Leeuwarden,€879,40 m²,2 rooms
-1781,Amsterdam,"€3,750",140 m²,4 rooms
-1782,Amersfoort,"€1,225",71 m²,2 rooms
-1783,Hilversum,"€2,700",131 m²,6 rooms
-1784,Breda,"€1,700",78 m²,2 rooms
-1785,Eindhoven,"€2,795",128 m²,3 rooms
-1786,Eindhoven,"€2,100",130 m²,3 rooms
-1787,Eindhoven,"€1,875",93 m²,4 rooms
-1788,Leiden,"€1,850",85 m²,3 rooms
-1789,Tilburg,"€1,750",125 m²,3 rooms
-1790,Maastricht,"€2,650",192 m²,5 rooms
-1791,Amsterdam,"€2,850",85 m²,3 rooms
-1792,Amsterdam,"€4,500",223 m²,5 rooms
-1793,Rotterdam,"€2,190",90 m²,3 rooms
-1794,Weert,€765,35 m²,2 rooms
-1795,Den,"€3,156",68 m²,3 rooms
-1796,Den,"€3,236",101 m²,3 rooms
-1797,Rotterdam,"€3,495",89 m²,3 rooms
-1798,Rotterdam,"€1,435",66 m²,2 rooms
-1799,Heemstede,"€3,600",186 m²,5 rooms
-1800,Amsterdam,"€2,700",75 m²,2 rooms
-1801,Arnhem,"€1,195",33 m²,2 rooms
-1802,Hilversum,"€1,425",55 m²,3 rooms
-1803,Arnhem,"€1,195",32 m²,2 rooms
-1804,Eindhoven,"€1,340",57 m²,2 rooms
-1805,Amsterdam,"€4,850",140 m²,4 rooms
-1806,Emmen,"€1,650",115 m²,3 rooms
-1807,Etten-Leur,"€1,445",80 m²,3 rooms
-1808,Nijmegen,"€1,250",80 m²,2 rooms
-1809,Rotterdam,"€2,495",124 m²,5 rooms
-1810,Rotterdam,"€4,700",238 m²,7 rooms
-1811,Ruinerwold,"€2,950",350 m²,6 rooms
-1812,Rotterdam,"€2,550",139 m²,3 rooms
-1813,Den,"€2,495",95 m²,3 rooms
-1814,Rotterdam,"€2,350",98 m²,3 rooms
-1815,Den,"€2,450",118 m²,4 rooms
-1816,Amsterdam,"€2,750",87 m²,2 rooms
-1817,Eindhoven,"€1,745",69 m²,3 rooms
-1818,Tilburg,"€1,550",90 m²,3 rooms
-1819,Den,"€2,190",115 m²,3 rooms
-1820,Rotterdam,"€2,750",84 m²,3 rooms
-1821,Amsterdam,"€3,495",134 m²,5 rooms
-1822,Maastricht,€965,66 m²,4 rooms
-1823,Velp,€373,11 m²,1 room
-1824,Amsterdam,"€2,100",88 m²,2 rooms
-1825,Amsterdam,"€2,500",140 m²,5 rooms
-1826,Hilversum,"€1,500",62 m²,3 rooms
-1827,Rotterdam,"€2,950",100 m²,3 rooms
-1828,Amsterdam,"€3,850",144 m²,3 rooms
-1829,Leiden,"€1,750",63 m²,1 room
-1830,Eerbeek,€550,70 m²,2 rooms
-1831,Eindhoven,"€1,795",90 m²,5 rooms
-1832,Vijlen,"€1,175",94 m²,5 rooms
-1833,Galder,"€1,850",114 m²,4 rooms
-1834,Rotterdam,"€2,650",81 m²,3 rooms
-1835,Noordwijkerhout,"€3,250",210 m²,7 rooms
-1836,Leiden,"€2,250",120 m²,4 rooms
-1837,Boxmeer,"€1,100",51 m²,2 rooms
-1838,Sittard,€600,30 m²,2 rooms
-1839,Amsterdam,"€5,750",275 m²,9 rooms
-1840,Hoofddorp,"€2,650",172 m²,8 rooms
-1841,Rotterdam,"€1,595",88 m²,3 rooms
-1842,Amstelveen,"€4,650",199 m²,4 rooms
-1843,Amsterdam,"€2,100",65 m²,2 rooms
-1844,Rotterdam,"€2,400",50 m²,4 rooms
-1845,Haarlem,"€3,150",81 m²,3 rooms
-1846,Steenbergen,"€1,575",130 m²,5 rooms
-1847,Eindhoven,"€1,780",97 m²,3 rooms
-1848,Breda,"€1,500",73 m²,3 rooms
-1849,Amsterdam,"€6,000",175 m²,5 rooms
-1850,Alkmaar,"€1,065",52 m²,2 rooms
-1851,Hilversum,"€3,500",176 m²,5 rooms
-1852,Amsterdam,"€4,200",125 m²,4 rooms
-1853,Wassenaar,"€3,250",149 m²,6 rooms
-1854,Rotterdam,"€1,500",55 m²,3 rooms
-1855,Amsterdam,"€2,700",75 m²,3 rooms
-1856,Amsterdam,"€2,500",140 m²,5 rooms
-1857,Amstelveen,"€2,750",69 m²,3 rooms
-1858,Heerlen,€823,65 m²,2 rooms
-1859,Roermond,"€1,350",68 m²,4 rooms
-1860,Maastricht,"€2,175",65 m²,1 room
-1861,Maastricht,"€1,950",90 m²,3 rooms
-1862,Maastricht,"€2,000",55 m²,1 room
-1863,Heeze,"€2,150",144 m²,6 rooms
-1864,Maastricht,"€1,950",135 m²,4 rooms
-1865,Amsterdam,"€2,250",60 m²,2 rooms
-1866,Helmond,€353,63 m²,2 rooms
-1867,Zwolle,€760,25 m²,1 room
-1868,Eindhoven,"€1,600",79 m²,3 rooms
-1869,Den,"€1,400",81 m²,3 rooms
-1870,Eindhoven,"€1,600",95 m²,3 rooms
-1871,Den,"€2,595",100 m²,5 rooms
-1872,Almere,"€1,850",109 m²,3 rooms
-1873,Den,"€2,750",135 m²,4 rooms
-1874,Den,"€2,495",108 m²,4 rooms
-1875,Oirschot,€900,59 m²,3 rooms
-1876,Maastricht,"€1,800",95 m²,3 rooms
-1877,Den,"€1,800",100 m²,2 rooms
-1878,Heerlen,€675,65 m²,2 rooms
-1879,Nijmegen,"€1,500",65 m²,2 rooms
-1880,Rotterdam,"€6,000",261 m²,5 rooms
-1881,Den,"€1,325",61 m²,3 rooms
-1882,Eindhoven,"€2,225",120 m²,4 rooms
-1883,Maastricht,"€1,850",162 m²,5 rooms
-1884,Utrecht,"€1,800",45 m²,3 rooms
-1885,Utrecht,"€1,950",75 m²,3 rooms
-1886,Weert,"€1,288",80 m²,3 rooms
-1887,Zuidland,"€2,000",90 m²,3 rooms
-1888,Amstelveen,"€2,750",69 m²,3 rooms
-1889,Rotterdam,"€2,190",90 m²,3 rooms
-1890,Rotterdam,"€1,595",77 m²,3 rooms
-1891,Valkenburg,€750,30 m²,2 rooms
-1892,Arnhem,"€2,200",120 m²,2 rooms
-1893,Almere,"€1,750",40 m²,2 rooms
-1894,Almere,"€1,850",48 m²,2 rooms
-1895,Almere,"€1,950",65 m²,2 rooms
-1896,Almere,"€1,650",35 m²,2 rooms
-1897,Amsterdam,"€2,150",55 m²,2 rooms
-1898,Haarlem,"€2,985",143 m²,4 rooms
-1899,Den,"€1,965",45 m²,2 rooms
-1900,Beuningen,"€1,200",85 m²,4 rooms
-1901,Arnhem,"€2,250",150 m²,6 rooms
-1902,Rotterdam,"€1,600",103 m²,4 rooms
-1903,Maastricht,"€2,500",140 m²,3 rooms
-1904,Koog,"€1,750",60 m²,3 rooms
-1905,Nieuw-Vennep,"€3,150",167 m²,6 rooms
-1906,Amsterdam,"€11,000",327 m²,9 rooms
-1907,Wassenaar,"€2,365",115 m²,3 rooms
-1908,Gorinchem,Price,89 m²,3 rooms
-1909,Arnhem,"€1,000",85 m²,3 rooms
-1910,Rotterdam,"€1,650",65 m²,1 room
-1911,Brummen,€850,72 m²,2 rooms
-1912,Den,"€1,900",75 m²,4 rooms
-1913,Rotterdam,"€1,610",75 m²,3 rooms
-1914,Rotterdam,"€1,975",91 m²,3 rooms
-1915,Groningen,"€1,300",55 m²,3 rooms
-1916,Sittard,"€1,350",130 m²,4 rooms
-1917,Amsterdam,"€4,000",68 m²,3 rooms
-1918,Delft,"€3,500",170 m²,6 rooms
-1919,Purmerend,"€2,500",160 m²,5 rooms
-1920,Rotterdam,"€2,190",90 m²,3 rooms
-1921,Amsterdam,"€4,500",223 m²,5 rooms
-1922,Capelle,"€1,028",56 m²,2 rooms
-1923,Den,"€2,500",113 m²,4 rooms
-1924,Arnhem,"€1,900",160 m²,3 rooms
-1925,Helmond,"€1,750",106 m²,4 rooms
-1926,Schiedam,"€1,850",70 m²,2 rooms
-1927,Hoofddorp,"€2,000",64 m²,3 rooms
-1928,Rotterdam,"€1,250",66 m²,3 rooms
-1929,Rotterdam,"€1,100",39 m²,2 rooms
-1930,Amsterdam,"€3,750",90 m²,3 rooms
-1931,Amsterdam,"€2,450",74 m²,2 rooms
-1932,Den,"€3,950",191 m²,5 rooms
-1933,Leimuiden,"€8,700",264 m²,6 rooms
-1934,Amstelveen,"€2,250",130 m²,5 rooms
-1935,Den,"€5,950",380 m²,10 rooms
-1936,Amsterdam,"€2,400",92 m²,3 rooms
-1937,Voorburg,"€1,055",49 m²,2 rooms
-1938,Amsterdam,"€2,595",100 m²,3 rooms
-1939,Amsterdam,"€2,400",70 m²,4 rooms
-1940,Maastricht,"€1,237",47 m²,2 rooms
-1941,Oirschot,"€2,250",75 m²,2 rooms
-1942,Rijswijk,"€1,600",105 m²,4 rooms
-1943,Rotterdam,"€1,250",55 m²,2 rooms
-1944,Bergen,"€1,975",103 m²,3 rooms
-1945,Utrecht,"€2,395",96 m²,2 rooms
-1946,Maastricht,"€2,495",105 m²,3 rooms
-1947,Amsterdam,"€2,750",90 m²,3 rooms
-1948,Utrecht,"€2,395",85 m²,3 rooms
-1949,Rotterdam,€795,50 m²,2 rooms
-1950,Valkenswaard,"€1,575",101 m²,4 rooms
-1951,Hoofddorp,"€2,250",82 m²,4 rooms
-1952,Amsterdam,"€4,500",223 m²,5 rooms
-1953,Amstelveen,"€2,750",69 m²,3 rooms
-1954,Den,"€2,795",119 m²,3 rooms
-1955,Kerkrade,€650,53 m²,3 rooms
-1956,Amsterdam,"€2,995",115 m²,3 rooms
-1957,Maastricht,€575,21 m²,1 room
-1958,Rotterdam,"€1,500",50 m²,2 rooms
-1959,Amsterdam,"€9,500",258 m²,7 rooms
-1960,Maastricht,€500,10 m²,1 room
-1961,Amsterdam,"€2,300",65 m²,2 rooms
-1962,Amstelveen,"€2,250",100 m²,3 rooms
-1963,Amsterdam,"€3,250",143 m²,4 rooms
-1964,Tilburg,"€1,245",52 m²,2 rooms
-1965,Dordrecht,"€1,995",100 m²,5 rooms
-1966,Den,"€1,516",95 m²,3 rooms
-1967,Amsterdam,"€3,200",65 m²,4 rooms
-1968,Amsterdam,"€2,150",50 m²,2 rooms
-1969,Dordrecht,"€1,700",69 m²,3 rooms
-1970,Amsterdam,"€3,000",98 m²,3 rooms
-1971,Amsterdam,"€4,500",127 m²,4 rooms
-1972,De,"€1,350",116 m²,2 rooms
-1973,Rotterdam,"€2,600",109 m²,3 rooms
-1974,Rotterdam,"€1,042",70 m²,3 rooms
-1975,Amsterdam,"€2,200",69 m²,3 rooms
-1976,Amsterdam,"€3,600",135 m²,3 rooms
-1977,Bergen,"€5,750",310 m²,5 rooms
-1978,Ermelo,€950,54 m²,3 rooms
-1979,Den,"€2,195",180 m²,3 rooms
-1980,Schiedam,"€2,225",146 m²,5 rooms
-1981,Hengelo,"€1,395",103 m²,4 rooms
-1982,Rotterdam,"€2,400",124 m²,5 rooms
-1983,Capelle,"€3,250",147 m²,5 rooms
-1984,Amstelveen,"€2,750",69 m²,3 rooms
-1985,Amsterdam,"€2,500",140 m²,5 rooms
-1986,Amstelveen,"€2,500",98 m²,5 rooms
-1987,Amsterdam,"€2,100",50 m²,2 rooms
-1988,Margraten,"€1,250",70 m²,2 rooms
-1989,Den,"€1,575",57 m²,2 rooms
-1990,Ooij,"€1,350",70 m²,3 rooms
-1991,Maarssen,"€1,400",74 m²,3 rooms
-1992,Bedum,"€1,400",59 m²,3 rooms
-1993,Bedum,"€1,200",45 m²,2 rooms
-1994,Den,€975,46 m²,2 rooms
-1995,Bedum,"€1,200",50 m²,2 rooms
-1996,Eindhoven,"€1,320",32 m²,2 rooms
-1997,Eindhoven,"€1,265",60 m²,2 rooms
-1998,Eindhoven,"€2,500",103 m²,3 rooms
-1999,Leiden,"€2,300",72 m²,3 rooms
-2000,Hoogeloon,"€1,850",130 m²,4 rooms
-2001,Arnhem,"€2,000",96 m²,3 rooms
-2002,Rotterdam,"€2,750",92 m²,3 rooms
-2003,Eindhoven,"€1,650",84 m²,3 rooms
-2004,Amstelveen,"€2,300",135 m²,5 rooms
-2005,Utrecht,€995,30 m²,1 room
-2006,Amsterdam,"€7,500",161 m²,4 rooms
-2007,Amsterdam,"€6,450",165 m²,3 rooms
-2008,Eindhoven,"€2,750",139 m²,5 rooms
-2009,Amsterdam,"€2,600",68 m²,3 rooms
-2010,Bosch,"€3,450",360 m²,4 rooms
-2011,Zwolle,"€1,295",55 m²,2 rooms
-2012,Amsterdam,"€2,475",95 m²,3 rooms
-2013,Brunssum,€592,17 m²,1 room
-2014,Den,"€3,950",150 m²,4 rooms
-2015,Groningen,"€1,050",56 m²,3 rooms
-2016,Amsterdam,"€2,500",140 m²,5 rooms
-2017,Rotterdam,"€2,190",90 m²,3 rooms
-2018,Noordwijkerhout,"€3,499",138 m²,5 rooms
-2019,Helmond,"€1,700",116 m²,6 rooms
-2020,Amsterdam,"€3,500",142 m²,5 rooms
-2021,Rotterdam,"€2,295",85 m²,3 rooms
-2022,Dordrecht,"€2,950",115 m²,4 rooms
-2023,Amsterdam,"€6,200",180 m²,5 rooms
-2024,Haarlem,"€5,000",190 m²,6 rooms
-2025,Amsterdam,"€2,650",76 m²,3 rooms
-2026,Maastricht,"€2,525",155 m²,4 rooms
-2027,Eindhoven,"€1,325",59 m²,2 rooms
-2028,Rotterdam,"€1,595",126 m²,5 rooms
-2029,Den,"€2,000",125 m²,2 rooms
-2030,Heerlen,€380,20 m²,3 rooms
-2031,Tilburg,€725,38 m²,2 rooms
-2032,Blaricum,"€8,750",468 m²,8 rooms
-2033,Amsterdam,"€2,000",122 m²,2 rooms
-2034,Eindhoven,"€1,995",161 m²,4 rooms
-2035,Almere,"€1,800",102 m²,4 rooms
-2036,Leiderdorp,"€1,650",75 m²,3 rooms
-2037,Amsterdam,"€3,150",111 m²,3 rooms
-2038,Leiden,€885,53 m²,2 rooms
-2039,Maastricht,"€1,650",106 m²,5 rooms
-2040,Amsterdam,"€2,500",54 m²,3 rooms
-2041,Rotterdam,"€2,895",90 m²,3 rooms
-2042,Oegstgeest,"€2,395",115 m²,4 rooms
-2043,Kerkrade,€875,50 m²,3 rooms
-2044,Leeuwarden,"€1,200",84 m²,4 rooms
-2045,Tilburg,"€2,500",157 m²,5 rooms
-2046,Maastricht,"€1,650",110 m²,3 rooms
-2047,De,"€1,650",87 m²,3 rooms
-2048,Amstelveen,"€2,750",69 m²,3 rooms
-2049,Amsterdam,"€2,100",88 m²,2 rooms
-2050,Den,"€2,375",109 m²,3 rooms
-2051,Amstelveen,"€2,750",109 m²,4 rooms
-2052,Beverwijk,"€2,531",157 m²,5 rooms
-2053,Amstelveen,"€2,300",117 m²,6 rooms
-2054,Leidschendam,"€1,485",84 m²,4 rooms
-2055,Eindhoven,"€1,700",91 m²,3 rooms
-2056,Sittard,"€3,850",235 m²,10 rooms
-2057,Den,"€1,550",71 m²,3 rooms
-2058,Zoetermeer,"€2,200",115 m²,4 rooms
-2059,Amsterdam,"€2,400",69 m²,1 room
-2060,Amstelveen,"€2,400",80 m²,3 rooms
-2061,Rotterdam,"€2,200",107 m²,5 rooms
-2062,Rotterdam,"€2,650",120 m²,4 rooms
-2063,Rotterdam,"€1,255",50 m²,3 rooms
-2064,Eindhoven,"€1,380",73 m²,3 rooms
-2065,Eindhoven,"€1,330",70 m²,3 rooms
-2066,Middelburg,"€1,200",64 m²,4 rooms
-2067,Tilburg,"€1,385",51 m²,2 rooms
-2068,Tilburg,€855,26 m²,1 room
-2069,Rotterdam,"€3,750",167 m²,8 rooms
-2070,Badhoevedorp,"€2,700",85 m²,4 rooms
-2071,Assen,"€1,260",92 m²,4 rooms
-2072,Amsterdam,"€2,750",120 m²,2 rooms
-2073,Warnsveld,"€1,700",80 m²,3 rooms
-2074,Schiedam,"€1,450",45 m²,2 rooms
-2075,Eindhoven,"€1,950",98 m²,4 rooms
-2076,Uden,"€1,230",56 m²,2 rooms
-2077,Roermond,"€1,290",69 m²,4 rooms
-2078,Den,"€2,195",120 m²,3 rooms
-2079,Utrecht,"€1,600",75 m²,2 rooms
-2080,Amsterdam,"€4,500",223 m²,5 rooms
-2081,Amsterdam,"€2,500",140 m²,5 rooms
-2082,Amsterdam,"€4,500",140 m²,6 rooms
-2083,Den,"€1,850",100 m²,4 rooms
-2084,Groningen,"€1,250",87 m²,3 rooms
-2085,Gouda,"€1,595",49 m²,2 rooms
-2086,Gouda,"€1,375",140 m²,3 rooms
-2087,Rotterdam,"€2,850",114 m²,3 rooms
-2088,Enschede,"€1,208",70 m²,2 rooms
-2089,Heerlen,€500,30 m²,3 rooms
-2090,Den,"€2,150",85 m²,3 rooms
-2091,Rotterdam,"€2,350",92 m²,3 rooms
-2092,Hoofddorp,"€2,150",54 m²,2 rooms
-2093,Amsterdam,"€2,050",83 m²,3 rooms
-2094,Rotterdam,"€2,595",92 m²,3 rooms
-2095,Rotterdam,"€1,375",50 m²,3 rooms
-2096,Rotterdam,"€1,850",90 m²,3 rooms
-2097,Amsterdam,"€2,250",65 m²,3 rooms
-2098,Schiedam,"€1,095",60 m²,2 rooms
-2099,Veenendaal,"€2,050",200 m²,5 rooms
-2100,Eindhoven,"€1,800",120 m²,6 rooms
-2101,Maastricht,"€1,150",110 m²,1 room
-2102,Amsterdam,"€2,000",60 m²,2 rooms
-2103,Zwolle,€460,14 m²,1 room
-2104,Eindhoven,"€1,350",60 m²,1 room
-2105,Amsterdam,"€2,500",93 m²,4 rooms
-2106,Eindhoven,"€2,950",127 m²,5 rooms
-2107,Groningen,"€1,750",92 m²,3 rooms
-2108,IJmuiden,"€1,950",144 m²,5 rooms
-2109,Utrecht,"€1,620",90 m²,3 rooms
-2110,Eindhoven,"€1,995",124 m²,5 rooms
-2111,Eindhoven,€370,12 m²,2 rooms
+Den,1590,74,2
+Eindhoven,2295,140,4
+Amsterdam,3500,175,5
+Amsterdam,3250,134,4
+Den,1950,100,5
+Zwolle,850,35,1
+Den,1600,80,3
+Rotterdam,3400,126,3
+Amsterdam,3750,120,3
+Rotterdam,514,85,1
+Amsterdam,2500,55,3
+Amsterdam,3250,89,3
+Deventer,1050,80,3
+Rotterdam,1495,90,5
+Almere,1250,85,3
+Maastricht,943,38,2
+Arnhem,850,80,3
+Haarlem,1850,72,2
+Amstelveen,2750,112,3
+Vlissingen,1855,129,5
+Hoofddorp,1895,85,3
+Maastricht,1054,21,1
+Amersfoort,1073,88,3
+Utrecht,1395,88,3
+Amsterdam,2950,75,3
+Almelo,625,42,2
+Amsterdam,2250,78,3
+Eindhoven,1650,97,3
+Eindhoven,1695,102,5
+Eindhoven,1700,76,2
+Rotterdam,892,65,4
+Eindhoven,2150,75,4
+Den,1590,74,2
+Amsterdam,2650,58,3
+Amsterdam,2450,65,3
+Brunssum,932,12,1
+Amsterdam,4500,116,3
+Amsterdam,1895,82,3
+Den,1160,42,2
+Rotterdam,2350,206,4
+Amstelveen,5250,220,7
+Sittard,798,42,1
+Schiedam,1600,94,3
+Eindhoven,1700,60,2
+Rijswijk,2150,145,3
+Amsterdam,5300,105,5
+Amsterdam,2900,116,4
+Amstelveen,2300,72,3
+Enschede,425,12,11
+Delft,1425,72,3
+Rotterdam,2250,115,3
+Arnhem,525,20,1
+Rotterdam,1650,93,3
+Nieuwerkerk,2495,144,5
+Enschede,2500,159,4
+Amsterdam,2600,70,3
+Leeuwarden,495,25,2
+Maastricht,919,28,1
+Amsterdam,7000,200,3
+Halfweg,1400,36,1
+Eindhoven,1750,105,4
+Waalre,1800,161,5
+Den,1595,104,2
+Amstelveen,3650,150,6
+Amsterdam,2650,58,3
+Eindhoven,1850,138,4
+Amsterdam,7500,132,4
+Amsterdam,2500,75,3
+Tilburg,1300,57,2
+Rotterdam,1350,53,2
+Groningen,1750,75,3
+Uden,1450,82,3
+Groningen,1350,50,3
+Amstelveen,6950,222,5
+Amsterdam,3900,159,3
+Hoofddorp,2500,130,5
+Enschede,525,20,1
+Amsterdam,3750,130,3
+Hoogvliet,2750,106,4
+Assen,1200,60,3
+Enschede,350,8,1
+Amsterdam,2100,114,5
+Amsterdam,2150,54,2
+Menaam,1495,179,6
+Amstelveen,3650,124,3
+Hengelo,1000,75,3
+Amstelveen,3050,93,3
+Haarlem,1975,115,2
+Amsterdam,2850,100,3
+Amsterdam,3500,143,4
+Roosendaal,1095,50,2
+Rotterdam,2450,120,3
+Leuth,795,50,2
+Eindhoven,995,42,2
+Leeuwarden,1150,74,3
+Oirschot,1595,125,4
+Eindhoven,1850,138,4
+Den,1590,74,2
+Pijnacker,1450,80,3
+Amstelveen,2750,108,5
+Tilburg,875,65,1
+Maastricht,1450,126,4
+Amsterdam,2850,67,2
+Heerlen,1150,123,6
+Veldhoven,1060,55,2
+Amsterdam,3500,122,4
+Amsterdam,2200,86,3
+Amsterdam,2650,86,3
+Almere,1115,44,1
+Amsterdam,4800,224,4
+Amsterdam,8500,205,4
+Geleen,1179,64,1
+Maastricht,564,15,1
+Haarlem,2100,80,3
+Amsterdam,2100,87,3
+Arnhem,485,13,1
+Haarlem,1400,45,2
+Haarlem,1600,30,1
+Zandvoort,2000,85,2
+Zandvoort,2400,144,3
+Haarlem,1800,50,2
+Haarlem,1600,30,1
+Haarlem,1600,45,2
+Vlaardingen,606,15,1
+Heerlen,995,115,3
+Rotterdam,2000,71,3
+Bergen,1050,60,1
+Rotterdam,2000,71,3
+Eindhoven,1850,138,4
+Amsterdam,2650,58,3
+Capelle,2000,115,4
+Leiden,2100,67,3
+Zwolle,547,12,1
+Uithoorn,1500,40,2
+Goedereede,1900,35,1
+Rotterdam,2250,110,2
+Groningen,635,21,1
+Den,1950,95,3
+Amsterdam,2450,70,3
+Amsterdam,3750,130,5
+Amsterdam,2645,171,3
+Hilversum,2000,125,5
+Purmerend,2250,107,5
+Amsterdam,2500,65,3
+Elst,763,70,2
+Zwolle,295,14,1
+Zwolle,345,15,1
+Amsterdam,2250,60,2
+Amsterdam,2550,80,3
+Enschede,1300,134,4
+Amsterdam,2750,87,2
+Amsterdam,3200,100,4
+Hilversum,465,14,1
+Den,1590,74,2
+Zoetermeer,2299,127,4
+Rotterdam,1028,56,2
+Nieuwegein,1360,64,2
+Amsterdam,3150,93,3
+Rotterdam,529,18,1
+Middelburg,1350,80,3
+Eindhoven,2295,140,4
+Den,1590,74,2
+Middelburg,1335,110,5
+Breda,4500,307,7
+Maastricht,1203,24,1
+Maastricht,1895,108,5
+Almelo,1150,128,5
+Amsterdam,2450,64,2
+Amsterdam,2650,65,3
+Amsterdam,2250,77,4
+Maastricht,1450,77,2
+Riel,1345,40,2
+Rotterdam,1299,105,3
+Maastricht,2200,80,1
+Enschede,850,41,2
+Amsterdam,3750,120,4
+Den,4650,225,6
+Rotterdam,2000,135,3
+Woerden,1960,120,5
+Almere,1850,83,3
+Sliedrecht,1390,85,2
+Amsterdam,2600,70,3
+Utrecht,2750,129,3
+Delden,960,73,3
+Utrecht,2600,124,4
+Nijmegen,1150,45,1
+Amsterdam,3600,102,3
+Eindhoven,1355,75,2
+Harderwijk,1217,64,3
+Harderwijk,1231,64,3
+Amstelveen,2400,120,3
+Hengelo,690,39,2
+Eindhoven,1850,138,4
+Den,1590,74,2
+Amsterdam,2450,64,2
+Almere,2550,130,3
+Roosendaal,1495,107,5
+Nieuw-Vennep,1425,148,5
+Amstelveen,3000,145,5
+Amsterdam,2950,160,5
+Maastricht,1750,52,1
+Den,2450,75,2
+Den,2950,134,5
+Rotterdam,1595,57,4
+Zwolle,1150,45,2
+Amsterdam,2350,60,2
+Rotterdam,1106,54,3
+Amsterdam,2500,75,3
+Horst,1061,100,4
+Veldhoven,1750,65,2
+Haarlem,2350,85,3
+Eindhoven,1750,90,2
+Amsterdam,2500,60,3
+Brunssum,1125,108,3
+Rotterdam,2450,96,4
+Groningen,1872,110,3
+Oldebroek,330,54,3
+Oldebroek,430,66,4
+Rijsenhout,2800,200,5
+Terneuzen,1295,100,5
+Rotterdam,2400,83,3
+Veldhoven,3975,290,6
+Amsterdam,2750,103,4
+Amstelveen,1250,46,2
+Den,1590,74,2
+Amsterdam,2650,58,3
+Arnhem,1250,79,2
+Amsterdam,3950,160,4
+Kerkrade,750,78,3
+Maastricht,2550,131,1
+Breda,1585,75,4
+Leiden,1975,70,3
+Bergen,1495,101,3
+Katwijk,1650,81,4
+Amsterdam,2500,84,3
+Amsterdam,3250,110,4
+Amsterdam,2750,100,2
+Amsterdam,1825,75,3
+Eindhoven,995,40,2
+Haarlem,1670,103,3
+Vught,1406,90,2
+Amsterdam,2250,71,4
+Zandvoort,1465,45,2
+Den,3999,106,3
+Heemstede,3250,140,4
+Spijkenisse,1750,81,3
+Tilburg,626,25,1
+Apeldoorn,1168,59,3
+Utrecht,2250,75,3
+Schiedam,1695,95,4
+Hengelo,677,39,2
+Breda,425,14,2
+Venray,1094,117,4
+Utrecht,1575,69,3
+Den,2500,130,6
+Den,841,24,1
+Eindhoven,2295,140,4
+Den,1590,74,2
+Den,860,24,1
+Den,847,23,1
+Den,873,24,1
+Den,1500,67,2
+Amsterdam,4250,141,5
+Eindhoven,1650,66,3
+Leende,1800,190,7
+Velp,365,24,1
+Amsterdam,2350,91,3
+Den,821,23,1
+Eindhoven,1790,140,6
+Ede,1650,137,5
+Amsterdam,2500,65,2
+Leeuwarden,825,45,2
+Ossendrecht,850,28,2
+Amsterdam,2595,75,2
+Rotterdam,2350,105,3
+Hilversum,1285,91,3
+Hilversum,1285,91,3
+Haarlem,1885,89,5
+Ede,1575,83,3
+Haarlem,2350,82,5
+Amsterdam,3950,126,3
+Arnhem,2400,121,3
+Utrecht,2500,62,2
+Enschede,2150,135,3
+Amsterdam,2500,101,4
+Amsterdam,5250,200,6
+Maastricht,525,14,1
+Eygelshoven,1150,75,3
+Eindhoven,2295,140,4
+Amsterdam,4250,120,5
+Haarlem,1985,57,3
+Rotterdam,2850,160,5
+Oegstgeest,1975,92,2
+Waskemeer,2500,200,7
+De,2500,150,7
+Nieuwegein,675,12,1
+Den,550,24,1
+Almere,2300,128,5
+Breda,875,42,1
+Leiden,1375,64,2
+Haarlem,1585,84,3
+Amsterdam,1270,30,2
+Maastricht,1245,150,4
+Rotterdam,815,49,2
+Den,3462,92,3
+Den,1995,47,2
+Muiderberg,2600,153,6
+Tilburg,418,16,1
+Delft,2995,141,4
+Den,1795,45,2
+Maastricht,619,26,1
+Rotterdam,1450,62,1
+Waalre,2150,110,3
+Eindhoven,1195,57,2
+Leeuwarden,995,76,3
+Tilburg,1670,94,4
+Den,2250,120,5
+Den,2250,90,2
+Breda,2275,110,5
+Amsterdam,2500,112,3
+Den,1590,74,2
+Amsterdam,4250,120,5
+Groningen,1500,60,1
+Horst,1079,100,4
+Amsterdam,2450,80,4
+Amsterdam,2600,72,3
+Amsterdam,2850,71,3
+Deurne,1750,120,5
+Nijmegen,1125,82,3
+Dordrecht,789,72,3
+Maastricht,1650,60,2
+Utrecht,2350,110,3
+Den,2150,95,4
+Heesch,1650,97,3
+Winssen,700,30,3
+Middelburg,1000,90,3
+Amsterdam,5000,150,4
+Leeuwarden,445,15,1
+Rotterdam,2150,107,3
+Rotterdam,1755,50,1
+Leeuwarden,950,52,1
+Breda,1195,65,3
+Deventer,1340,85,3
+Deventer,1340,85,3
+Katwijk,1925,109,4
+Amstelveen,2495,91,4
+Eindhoven,2450,130,6
+Bolsward,2050,92,4
+Arum,2300,138,5
+Amsterdam,2500,74,3
+Maastricht,1050,180,5
+Amsterdam,2500,80,3
+Amsterdam,4250,120,5
+Den,1590,74,2
+Peize,925,52,2
+Utrecht,1625,80,2
+Oegstgeest,2200,110,4
+Maastricht,970,43,3
+Den,2450,104,3
+Goes,1320,125,5
+Den,3950,235,8
+Amsterdam,3200,77,2
+Amsterdam,3500,139,4
+Den,3500,220,8
+Apeldoorn,1175,59,3
+Voorburg,1695,123,5
+Vlaardingen,2250,116,6
+Amsterdam,2250,60,2
+Eindhoven,1975,150,4
+Rotterdam,1695,80,2
+Schiedam,1700,50,2
+Wormerveer,1500,51,2
+Rotterdam,2300,70,3
+Haarlem,3245,93,4
+Rotterdam,1995,96,3
+Rotterdam,1400,82,2
+Den,1573,79,3
+Leiden,1950,87,4
+Aalsmeer,3500,156,5
+Groningen,808,28,2
+Eindhoven,1950,179,4
+Den,2200,75,2
+Uithoorn,1800,67,2
+Budel,1300,85,3
+Amstelveen,2950,127,4
+Amsterdam,2650,58,3
+Amsterdam,2950,125,3
+Rotterdam,1995,127,4
+Rotterdam,5000,200,6
+Maastricht,1895,112,5
+Haarlem,2500,103,4
+Amstelveen,2350,110,5
+Groningen,825,27,2
+Rotterdam,944,65,3
+Utrecht,1795,67,2
+Amsterdam,2500,112,3
+Almere,2350,105,4
+Eindhoven,1290,63,1
+Rotterdam,2450,89,3
+Rotterdam,2650,120,3
+Den,1590,74,2
+Geleen,995,70,3
+Katwijk,1850,97,4
+IJlst,1495,150,4
+Groningen,850,38,1
+Groningen,2180,133,5
+Amsterdam,1850,69,3
+Amsterdam,3200,130,5
+Hoofddorp,2600,110,5
+Brunssum,1050,67,3
+Enschede,550,13,1
+Amsterdam,2750,86,4
+Boxtel,1875,182,4
+Amsterdam,2500,93,2
+Groningen,995,60,2
+Leeuwarden,1395,110,4
+Eindhoven,1850,138,4
+Den,1590,74,2
+Huizen,1995,104,6
+Groningen,985,51,2
+Amsterdam,5100,120,5
+Tilburg,1478,64,2
+Leiden,2800,73,4
+Delft,900,103,4
+Breda,1015,50,2
+Harmelen,1895,115,4
+Amsterdam,7250,400,5
+Groningen,737,25,2
+Rijssen,1190,100,3
+Groningen,1065,63,2
+Tilburg,1045,33,1
+Groningen,760,27,2
+Amsterdam,2950,150,6
+Arnhem,468,12,1
+Rotterdam,1850,58,2
+Heerenveen,365,24,1
+Rotterdam,3250,121,3
+Helmond,1950,150,4
+Amsterdam,2800,104,5
+Maastricht,652,25,1
+Rotterdam,2100,90,4
+Den,2450,110,3
+Amsterdam,3750,162,4
+Geldrop,1275,65,2
+Purmerend,1950,121,5
+Eindhoven,2100,121,4
+Amsterdam,3000,80,3
+Eindhoven,2450,160,5
+Amsterdam,4250,120,5
+Eindhoven,1850,138,4
+Eindhoven,1795,108,4
+Heelsum,1086,75,2
+Rotterdam,900,16,1
+Helmond,1950,102,5
+Wissenkerke,1175,80,3
+Apeldoorn,1003,93,4
+Eindhoven,1370,59,2
+Badhoevedorp,540,14,1
+Maastricht,1800,160,4
+Utrecht,1970,70,3
+Utrecht,895,30,1
+Nijmegen,1975,70,3
+Amsterdam,8500,220,4
+Valkenswaard,1550,122,5
+Utrecht,2100,88,3
+Amsterdam,3500,77,3
+Den,825,80,3
+Amsterdam,2650,80,5
+Amsterdam,2850,105,3
+Amsterdam,3800,104,4
+Amsterdam,2600,110,3
+Amsterdam,2900,105,4
+Amsterdam,3950,150,4
+Amsterdam,2900,76,4
+Amsterdam,2195,121,4
+Den,2000,81,4
+Wassenaar,3350,153,5
+Bloemendaal,4250,185,7
+Nijmegen,1595,100,3
+Delft,1620,49,2
+Amsterdam,2650,58,3
+Den,1590,74,2
+Rotterdam,1795,52,2
+Rotterdam,1850,52,1
+Rotterdam,2700,154,5
+Rotterdam,1750,80,3
+Den,2250,105,3
+Balk,995,90,3
+Aalsmeer,1250,59,3
+Zwolle,695,33,1
+Oosteind,2100,190,5
+Maastricht,1485,110,4
+Leiden,1895,164,5
+Zwolle,995,66,2
+Houten,1500,131,5
+Eindhoven,1900,110,3
+Amsterdam,4500,146,4
+Roermond,1791,64,2
+Amsterdam,2250,109,3
+Den,2995,175,5
+Rotterdam,3500,207,7
+Zutphen,1250,104,5
+Amsterdam,2000,50,2
+Muiderberg,2350,137,5
+Haarlem,2350,85,3
+Amsterdam,3500,141,5
+Eindhoven,2150,165,5
+Amsterdam,6500,194,6
+Rijsenhout,2500,113,5
+Alkmaar,400,93,4
+Eindhoven,1428,71,2
+Amsterdam,2250,101,3
+Eindhoven,2295,140,4
+Amsterdam,4250,120,5
+Amsterdam,3950,143,4
+Amsterdam,5000,220,6
+Amsterdam,2200,56,2
+Bloemendaal,4000,128,4
+Terneuzen,1375,109,5
+Geldrop,3495,130,5
+Leiderdorp,2500,130,6
+Den,1750,100,3
+Amstelveen,2400,140,5
+Middelburg,1250,90,4
+Amsterdam,2200,63,3
+Leiden,1428,40,2
+Veldhoven,1825,130,4
+Maastricht,1165,78,3
+Middelburg,1400,105,4
+Den,1950,75,3
+Amsterdam,2700,100,3
+Den,3800,230,8
+Amsterdam,3250,77,3
+Amsterdam,2399,100,4
+Weert,450,70,2
+Den,550,14,1
+Eindhoven,1700,88,3
+Venray,1438,60,3
+Amsterdam,2450,88,3
+Amsterdam,2350,88,4
+Tilburg,1050,35,2
+Almere,1750,64,3
+Roermond,525,86,3
+Den,1590,74,2
+Eindhoven,2295,140,4
+Zaandam,2350,126,5
+Leiden,1595,103,2
+Den,1100,50,2
+Haarlem,1400,46,2
+Spijkenisse,1375,68,3
+Eindhoven,1500,80,2
+Haarlem,3500,371,6
+Enschede,675,18,1
+Zwolle,935,80,4
+Zwolle,995,77,4
+Maastricht,1450,111,4
+Helmond,1950,329,5
+Breda,1390,70,3
+Amsterdam,2700,79,3
+Den,6500,215,4
+Echt,1395,132,4
+Utrecht,2200,80,3
+Rotterdam,1257,56,3
+Rotterdam,1795,72,3
+Sassenheim,1150,82,3
+Utrecht,2150,87,3
+Den,3400,103,5
+Den,2750,118,3
+Pijnacker,3000,190,6
+Amsterdam,2550,101,4
+Amsterdam,2950,150,4
+Zwaag,3500,115,6
+Amsterdam,2750,86,3
+Brunssum,1125,50,2
+Brunssum,1050,65,3
+Eindhoven,1850,138,4
+Eindhoven,2295,140,4
+Brunssum,1050,65,3
+Brunssum,1100,40,2
+Brunssum,1100,40,2
+Brunssum,1100,40,2
+Brunssum,1150,65,2
+Brunssum,1125,50,2
+Rotterdam,1950,102,3
+Den,1795,120,5
+Rotterdam,1950,93,5
+Rotterdam,1995,90,3
+Haarlem,1695,100,2
+Berg,825,70,1
+Amsterdam,2950,109,3
+Utrecht,2325,93,3
+Maastricht,332,10,1
+Amersfoort,1680,122,3
+Rotterdam,1995,90,3
+Amsterdam,5250,190,7
+Rotterdam,2750,120,3
+Oosterbeek,1450,89,4
+Utrecht,2200,84,3
+Zaandam,1933,88,3
+Amsterdam,3600,85,5
+Maastricht,1865,92,3
+Zwolle,422,21,1
+Bentelo,1650,170,4
+Roermond,958,111,3
+Voorburg,2200,131,5
+Roermond,963,90,3
+Haarlem,2245,99,4
+Amstelveen,2950,127,4
+Den,1590,74,2
+Bentelo,1495,150,4
+Amsterdam,2495,59,3
+Broekhuizen,1240,110,4
+Maastricht,1856,22,1
+Brunssum,1450,110,3
+Brunssum,975,50,2
+Almere,2100,80,3
+Brunssum,1075,75,2
+Almere,2450,141,6
+Amsterdam,2950,111,5
+Rotterdam,2400,105,3
+Velp,562,13,1
+Amsterdam,2750,86,3
+Tilburg,650,40,1
+Maastricht,549,14,1
+Utrecht,2250,105,4
+Nieuwkuijk,1350,90,3
+Den,2500,127,4
+Uithuizen,250,108,3
+Groningen,600,80,2
+Berkhout,1500,105,4
+Diemen,1372,96,4
+Amsterdam,2650,80,3
+Amersfoort,1730,78,3
+Utrecht,2250,65,2
+Groningen,500,82,2
+Zwolle,1800,159,1
+Meerssen,775,21,1
+Oostwold,400,89,3
+Enschede,2500,159,4
+Eindhoven,2295,140,4
+Amsterdam,4250,120,5
+Zwolle,365,19,1
+Landgraaf,1125,120,4
+Rotterdam,3500,127,3
+Eindhoven,2175,126,6
+Amsterdam,2500,96,4
+Amsterdam,3000,106,3
+Houten,3250,343,5
+Den,2000,117,4
+Warmond,1800,78,1
+Warmond,1550,64,2
+Maastricht,1275,75,3
+Den,879,80,3
+Amsterdam,1975,50,2
+Den,1950,110,2
+Eindhoven,1850,128,4
+Den,2950,140,8
+Eindhoven,1950,160,6
+Arnhem,1100,67,3
+Enschede,1293,70,3
+Warmond,1700,65,2
+Maastricht,1199,35,1
+Rotterdam,2000,70,3
+Den,1350,42,1
+Hooglanderveen,1050,67,2
+Amsterdam,2000,87,4
+Vlaardingen,1450,102,4
+Amsterdam,2950,106,3
+Den,3250,139,4
+Den,2700,157,6
+Lelystad,1950,110,5
+Eindhoven,1850,138,4
+Amsterdam,2650,58,3
+IJmuiden,2485,151,5
+Leiden,1700,48,2
+Helmond,1520,83,4
+Leeuwarden,375,9,2
+Amsterdam,3250,116,4
+Amsterdam,2670,80,3
+Zwolle,425,18,1
+Amsterdam,3500,108,3
+Zwolle,430,20,1
+Rotterdam,1750,108,3
+Rotterdam,2250,129,5
+Den,1350,97,3
+Eijsden,1640,85,3
+Waalwijk,840,48,2
+Heerlen,975,95,5
+Leiden,1970,92,4
+Breda,1995,95,3
+Enter,980,70,3
+Meppel,1075,68,2
+Amstelveen,2800,120,5
+Tilburg,450,16,1
+Amsterdam,3150,70,3
+Amsterdam,3500,92,3
+Amsterdam,2900,90,3
+Haarlem,1750,84,3
+Waalre,1495,87,3
+Eindhoven,2200,120,4
+Groningen,800,43,2
+Amsterdam,3000,120,3
+Amsterdam,1950,95,4
+Den,1590,74,2
+Eindhoven,1850,138,4
+Rotterdam,1195,77,4
+Hoorn,1025,55,2
+Rotterdam,2095,110,4
+Rotterdam,930,49,2
+Purmerend,2000,108,5
+Amsterdam,3495,130,5
+Rotterdam,1850,49,2
+Rotterdam,1700,76,3
+Groningen,1075,25,1
+Den,995,39,2
+Amsterdam,3800,150,4
+Tilburg,800,20,1
+Assen,950,50,2
+Assen,850,50,3
+Groningen,1390,65,2
+Groningen,1390,78,2
+Amsterdam,2900,60,2
+Utrecht,2200,71,3
+Den,847,32,2
+Amsterdam,2850,85,3
+Breda,988,35,1
+Breda,1200,62,3
+Maastricht,1425,100,3
+Veldhoven,1800,120,2
+Eindhoven,1345,64,2
+Rotterdam,1850,99,5
+Eindhoven,1200,45,2
+Tilburg,1184,60,1
+Den,1044,46,2
+Amsterdam,3500,135,4
+Eindhoven,1850,138,4
+Eindhoven,2295,140,4
+Den,4800,185,8
+Groningen,985,25,4
+Eindhoven,1950,91,3
+Rotterdam,1340,60,2
+Groningen,1350,100,4
+Rotterdam,1350,50,1
+Enschede,1450,148,6
+Almelo,895,111,5
+Den,1101,52,3
+Den,694,29,1
+Rotterdam,1500,105,4
+Breda,807,42,2
+Arnhem,2650,107,6
+Amsterdam,3500,97,4
+Utrecht,2150,89,3
+Rotterdam,2500,95,3
+Oud-Beijerland,1550,76,2
+Amsterdam,2300,90,3
+Loon,750,30,2
+Amsterdam,2250,53,1
+Breda,853,45,2
+Brunssum,627,35,2
+Groningen,1005,28,1
+Den,1395,52,2
+Werkendam,1225,60,2
+Groningen,1110,50,2
+Groningen,575,25,1
+Eindhoven,1950,86,3
+Tilburg,750,20,1
+Tilburg,800,27,1
+Amsterdam,2650,58,3
+Amsterdam,4250,120,5
+Tilburg,800,26,1
+Eindhoven,2050,104,4
+Zoetermeer,1000,46,2
+Amsterdam,1850,85,4
+Rotterdam,3950,211,8
+Amstelveen,12500,425,12
+Amsterdam,6500,123,4
+Maastricht,1250,74,3
+Rotterdam,1975,75,2
+Rotterdam,996,61,2
+Amsterdam,5850,162,6
+Amsterdam,3250,85,3
+Amsterdam,9000,242,6
+Tilburg,650,27,1
+Haarlem,2685,129,6
+Rotterdam,2495,228,6
+Den,1400,45,2
+Oss,1014,55,2
+Horst,1099,124,3
+Amsterdam,1794,66,2
+Den,1400,75,2
+Den,821,23,1
+Den,754,33,2
+Arnhem,1600,110,4
+Den,2400,117,4
+Utrecht,2450,108,3
+Haarlem,3500,134,6
+Rotterdam,2500,124,4
+Amsterdam,2250,65,2
+Maastricht,1067,80,3
+Amstelveen,2950,127,4
+Eindhoven,2295,140,4
+Den,685,19,1
+Amsterdam,3950,104,3
+Groningen,1005,30,2
+Zwolle,470,20,1
+Zevenbergen,446,100,1
+Emmen,309,30,2
+Middelburg,1195,95,3
+Breda,3450,155,4
+Bennekom,809,63,2
+Dordrecht,1995,79,3
+Hoogvliet,1240,151,5
+Rotterdam,2295,84,3
+Deventer,645,26,1
+Den,2743,128,5
+Amstelveen,2750,110,3
+Alphen,1895,145,4
+Breda,2995,172,3
+Harderwijk,1250,40,1
+Eindhoven,2100,155,5
+Zwolle,555,21,2
+Deventer,485,15,1
+Hoofddorp,2995,156,6
+Groningen,4095,165,7
+Den,2000,111,3
+Almere,2350,135,4
+Leiden,2450,77,2
+Heerde,550,80,4
+Almere,1895,105,5
+Sittard,2000,77,3
+Amsterdam,2650,58,3
+Eindhoven,1850,138,4
+Den,2740,126,4
+Den,2750,112,3
+Den,2450,133,5
+Amsterdam,2500,106,3
+Leersum,1995,230,4
+Moergestel,1750,150,5
+Amstelveen,2900,131,3
+Rotterdam,2100,110,6
+Veldhoven,1900,76,3
+Den,3750,127,4
+Almere,2600,143,6
+Nijmegen,995,42,2
+Gouda,2999,288,7
+Amsterdam,2166,131,3
+Amsterdam,2450,81,3
+Tilburg,1445,51,2
+Den,550,16,1
+Amsterdam,2650,105,4
+Den,475,15,2
+Amsterdam,4850,145,4
+Roosendaal,930,80,3
+Hattem,3000,206,5
+Rotterdam,1295,70,3
+Oss,875,36,1
+Oss,685,13,1
+Rotterdam,1650,75,3
+Roermond,900,60,3
+Amsterdam,2650,58,3
+Eindhoven,1850,138,4
+Maastricht,995,45,2
+Utrecht,1650,40,1
+Schiedam,1850,109,4
+Delft,850,63,3
+Utrecht,1165,30,1
+Amstelveen,2150,79,4
+Amsterdam,2250,110,3
+Breda,2750,354,3
+Breda,2800,143,5
+Maastricht,1825,72,4
+Laren,2500,72,3
+Amsterdam,3250,96,4
+Amsterdam,3500,111,5
+Amstelveen,2425,116,3
+Schijndel,1950,197,5
+Amsterdam,2750,132,4
+Amsterdam,3800,128,4
+Nieuwegein,1069,36,1
+Rotterdam,2200,102,4
+Maastricht,1900,111,4
+Eindhoven,2150,100,4
+Amsterdam,4100,142,6
+Maarssen,2480,128,7
+Amstelveen,3800,180,7
+Den,2500,94,4
+Vlissingen,1450,65,2
+Amstelveen,2500,108,5
+Groningen,980,35,2
+Capelle,1295,80,4
+Waalre,3250,184,5
+Amsterdam,4250,120,5
+Amsterdam,2650,58,3
+Sneek,1050,107,4
+Hoogeveen,860,36,1
+Rotterdam,1250,53,3
+Rotterdam,3500,251,4
+Boxtel,1300,30,1
+Nuenen,1850,118,4
+Eindhoven,1085,71,2
+Amsterdam,2395,97,3
+Rotterdam,1500,80,2
+Rijswijk,1078,73,3
+Rotterdam,2495,79,3
+Breda,1950,119,5
+Katwijk,1175,62,2
+Rotterdam,955,38,2
+Rotterdam,935,48,3
+Roosendaal,2495,321,7
+Spijkenisse,970,100,3
+Rotterdam,1850,95,3
+Meijel,2095,125,5
+Roosendaal,920,60,3
+Katwijk,950,45,2
+Den,2300,116,4
+Eindhoven,1545,99,4
+Utrecht,1090,46,2
+Grou,1400,78,4
+Edam,1050,62,2
+Amsterdam,5000,145,5
+Hilversum,2750,122,3
+Amsterdam,3250,101,3
+Gouda,2995,120,4
+Eindhoven,2295,140,4
+Amsterdam,2650,58,3
+Gouda,2995,122,4
+Amsterdam,5500,105,3
+Apeldoorn,840,56,2
+Apeldoorn,1023,93,4
+Middenbeemster,3500,317,5
+Eindhoven,1900,120,5
+Vlaardingen,2050,94,4
+Amsterdam,3000,140,5
+Eindhoven,703,12,1
+Capelle,1650,76,4
+Maastricht,952,21,1
+Amsterdam,2000,126,5
+Amsterdam,2450,120,3
+Rotterdam,2495,131,5
+Amsterdam,3500,125,4
+Steenbergen,850,35,2
+Reusel,300,72,2
+Waalre,300,41,2
+Amersfoort,1195,52,2
+Utrecht,2550,93,3
+Enschede,325,10,1
+Amsterdam,2750,90,4
+Amsterdam,2975,100,3
+Rotterdam,3500,170,7
+Arnhem,2675,120,5
+Amsterdam,3850,75,2
+Amersfoort,1225,55,2
+Groningen,1165,35,2
+Amersfoort,1195,51,2
+Den,2450,93,4
+Eindhoven,2295,140,4
+Amstelveen,2950,127,4
+Almere,2300,114,5
+Amsterdam,2650,58,3
+Den,4500,139,4
+Apeldoorn,675,31,1
+Kampen,950,78,3
+Haarlem,2250,101,3
+Dinteloord,1800,133,3
+Den,1700,112,4
+Eindhoven,1275,67,2
+Amsterdam,9750,221,6
+Rotterdam,885,22,1
+Den,1785,99,4
+Den,1565,95,3
+Rotterdam,1650,62,2
+Amsterdam,2155,92,3
+Delft,2200,108,4
+Meijel,1750,90,4
+Schiedam,2500,100,4
+Eindhoven,1890,144,5
+Amsterdam,7800,180,5
+Amsterdam,2750,95,3
+Amsterdam,3500,135,4
+Roermond,1250,115,2
+Utrecht,1950,100,4
+Eindhoven,1850,82,2
+Broek,1500,55,2
+Zandvoort,2750,123,4
+Amsterdam,2100,65,2
+Bussum,4950,358,11
+Haarlem,1800,70,3
+Amsterdam,2650,58,3
+Eindhoven,1850,138,4
+Amsterdam,3250,107,3
+Epse,1500,98,2
+Noordwijk,2400,130,3
+Rotterdam,2100,103,4
+Amsterdam,2500,69,3
+Zwolle,1195,60,2
+Rotterdam,1600,81,3
+Rotterdam,2100,120,4
+Zwolle,495,16,1
+Eijsden,1145,55,2
+Amsterdam,3250,125,3
+Den,1300,77,3
+Den,1750,138,5
+Oss,1000,65,2
+Den,1350,76,3
+Den,1300,76,3
+Amsterdam,2350,90,4
+Utrecht,875,39,2
+Amsterdam,1600,67,3
+Den,490,23,1
+Hoofddorp,3250,118,3
+Assen,1200,58,2
+Roosendaal,815,52,2
+Utrecht,1795,30,1
+Veenendaal,1950,145,6
+Rotterdam,2100,95,3
+Utrecht,1595,35,2
+Den,6000,167,5
+Rotterdam,1550,75,2
+Assen,875,50,2
+Amsterdam,2650,58,3
+Amstelveen,2950,127,4
+Nieuwegein,4995,348,5
+Haarlem,5000,179,7
+Utrecht,1595,75,2
+Naarden,843,35,1
+Breda,2250,154,4
+Bocholtz,309,40,2
+Almere,1850,138,5
+Den,525,14,1
+Huizen,1550,80,3
+Nieuwleusen,1222,90,3
+Landgraaf,590,24,2
+Roosendaal,915,47,3
+Amsterdam,3250,140,4
+Rilland,1675,280,9
+Rotterdam,2595,90,4
+Amersfoort,1595,120,3
+Eindhoven,1345,64,2
+Amsterdam,3800,109,3
+Amsterdam,2650,97,3
+Utrecht,2500,119,5
+Rotterdam,1850,79,2
+Alkmaar,1009,56,1
+Leiden,2450,109,4
+Nuenen,1195,110,4
+Groningen,2650,178,5
+Rotterdam,1045,69,3
+Utrecht,1765,112,4
+Eindhoven,1736,120,2
+Amsterdam,3250,115,3
+Eindhoven,2500,170,5
+Amsterdam,2650,58,3
+Den,1590,74,2
+Veldhoven,1950,92,3
+Amsterdam,2400,92,3
+Enschede,1395,60,3
+Westzaan,650,80,3
+Maarssen,2250,116,5
+Rotterdam,2900,117,4
+Wormerveer,650,65,3
+Rotterdam,1574,28,5
+Amsterdam,2250,72,2
+Helmond,1550,85,4
+Haarlem,1985,67,3
+Groningen,1995,135,5
+Waalre,875,35,1
+Schiedam,1700,89,4
+Den,1850,67,1
+Amsterdam,3950,151,5
+Amsterdam,3750,94,3
+Almere,2500,150,5
+Grevenbicht,995,100,3
+Maastricht,1850,95,3
+Bunnik,2000,128,3
+Groningen,1440,105,3
+Den,1873,98,5
+Amsterdam,1999,45,1
+Hilversum,1150,45,3
+Hilversum,1150,45,2
+Amsterdam,2395,66,3
+Zwolle,1295,55,2
+Maastricht,2800,150,5
+Beek,1400,118,5
+Den,1590,74,2
+Eindhoven,2295,140,4
+Almere,2160,105,4
+Middelaar,895,95,4
+Leiden,2400,100,4
+Amsterdam,2500,125,3
+Den,1100,32,1
+Veghel,1425,105,5
+Nijmegen,1225,95,3
+Amsterdam,2000,72,3
+Amersfoort,1485,72,3
+Amsterdam,1955,55,2
+Rotterdam,1525,88,3
+Geleen,1495,120,4
+Apeldoorn,651,23,1
+Amsterdam,4750,184,6
+Eindhoven,1175,41,2
+Leeuwarden,350,9,1
+Amsterdam,2850,95,3
+Colijnsplaat,1450,108,4
+Hoofddorp,2300,106,5
+Kerkrade,549,45,2
+Amsterdam,1985,64,2
+Amstelveen,4995,200,6
+Den,1250,50,2
+Rotterdam,2650,118,6
+Apeldoorn,651,23,1
+Helmond,1225,86,4
+Rotterdam,1300,45,1
+Amsterdam,2200,88,3
+Almelo,780,50,2
+Den,1850,90,4
+Eindhoven,1850,138,4
+Amsterdam,2650,58,3
+Maastricht,1495,93,2
+Maastricht,3000,244,5
+Amsterdam,2500,96,3
+Den,1900,90,4
+Roermond,1350,60,4
+Roermond,1350,80,4
+Maastricht,1995,103,5
+Spijkenisse,2500,120,6
+Tilburg,899,52,1
+Amsterdam,2600,85,3
+Zevenhuizen,2500,150,5
+Amsterdam,2950,102,3
+Rotterdam,2395,130,4
+Roermond,1050,55,4
+Eindhoven,1850,122,5
+Zeist,976,76,3
+Roermond,750,24,2
+Maastricht,1077,27,1
+Den,2500,105,3
+Den,3650,149,4
+Den,2500,100,4
+Veldhoven,1275,50,1
+Geulle,2450,129,4
+Veldhoven,1500,50,2
+Breukelen,4950,245,6
+Apeldoorn,697,22,1
+Oisterwijk,1500,127,4
+Rotterdam,1650,85,3
+Boxtel,1890,170,5
+Wassenaar,5500,200,6
+Amsterdam,4250,120,5
+Eindhoven,2295,140,4
+Den,3600,124,4
+Eindhoven,1525,109,4
+Amsterdam,2500,85,3
+Amersfoort,1200,38,1
+Amsterdam,2350,60,2
+Den,2300,105,3
+Den,8000,361,9
+Den,1850,95,3
+Eindhoven,1275,26,2
+Amersfoort,1995,89,3
+Maastricht,2295,285,6
+Franeker,1000,90,3
+Arnhem,1300,50,2
+Maastricht,1995,105,3
+Maastricht,1995,100,3
+Rotterdam,1978,117,3
+Rotterdam,1998,84,3
+Oosterhout,1975,176,3
+Rotterdam,1995,125,2
+Groningen,1231,63,2
+Amsterdam,2450,82,6
+Rotterdam,3500,206,8
+Eindhoven,1375,78,3
+Eindhoven,1325,78,3
+Leiden,1119,50,2
+Rotterdam,2950,154,4
+Amsterdam,3900,170,4
+Roosendaal,1065,79,3
+Eindhoven,1700,60,2
+Broek,3250,154,4
+Den,1590,74,2
+Amsterdam,2650,58,3
+Wilnis,1350,40,2
+Eindhoven,2450,119,5
+Waalwijk,1450,104,4
+Eindhoven,1800,67,3
+Midlaren,2350,223,5
+Wageningen,2100,127,6
+Den,2095,140,4
+Roosendaal,1195,120,2
+Rotterdam,1400,74,3
+Oosterbeek,2150,102,3
+Lelystad,2250,120,5
+Heerlen,650,55,1
+Maastricht,1725,55,1
+Rotterdam,1450,64,2
+Almelo,1050,80,3
+Breda,2300,89,4
+Amsterdam,2000,69,2
+Roermond,800,43,2
+Berg,710,60,2
+Amsterdam,3450,75,3
+Roosendaal,1750,107,4
+Maastricht,851,16,1
+Bergen,1100,60,2
+Ouddorp,2000,50,2
+Maastricht,931,12,1
+Arnhem,1015,30,2
+Maastricht,1495,141,5
+Zaandam,2200,75,4
+Groningen,906,36,2
+Amsterdam,3850,129,3
+Amsterdam,4250,120,5
+Eindhoven,2295,140,4
+Deventer,924,75,3
+Den,1125,52,3
+Amsterdam,2350,95,3
+Rijswijk,2250,117,6
+Amsterdam,3950,200,5
+Amersfoort,550,12,1
+Utrecht,2795,164,5
+Amsterdam,3500,145,5
+Amsterdam,2500,90,3
+Rotterdam,1495,75,4
+Lelystad,2350,135,6
+Amsterdam,2650,85,3
+Amsterdam,2200,85,2
+Amsterdam,2750,80,3
+Hillegom,1990,140,4
+Wassenaar,3695,173,6
+Eindhoven,1371,53,2
+Rotterdam,2195,69,4
+Maastricht,1298,90,5
+Eindhoven,1975,150,5
+Rotterdam,1750,80,2
+Rotterdam,1800,100,3
+Eindhoven,2495,149,4
+Eindhoven,1995,132,3
+Houten,843,29,1
+Nieuwegein,3000,135,5
+Rotterdam,2500,100,3
+Heerlen,1095,92,5
+Naarden,843,32,1
+Tilburg,1300,30,1
+Amsterdam,2650,58,3
+Den,1590,74,2
+Tilburg,1300,34,1
+Tilburg,900,20,1
+Hoofddorp,2700,108,3
+Rotterdam,1375,99,4
+Breda,1005,45,2
+Amsterdam,3350,107,4
+Landgraaf,1050,136,4
+Geleen,900,82,5
+Den,3350,127,3
+Rotterdam,1995,71,4
+Rotterdam,2995,68,2
+Amstelveen,2400,84,2
+Tilburg,800,18,1
+Den,1450,65,2
+Amstelveen,2495,73,3
+Utrecht,4250,238,5
+Hoofddorp,2500,76,3
+Den,2950,133,6
+Den,4500,230,9
+Amsterdam,2500,80,3
+Amstelveen,2750,120,5
+Almere,1850,107,6
+Amstelveen,2300,84,3
+Den,3250,95,4
+Den,3500,120,3
+Arnhem,899,50,3
+Sittard,2000,250,3
+Zaandam,1900,90,3
+Beek,1500,161,5
+Amersfoort,1505,91,3
+Amstelveen,2950,127,4
+Den,1590,74,2
+Den,3100,120,3
+Roermond,794,79,3
+Rotterdam,1875,110,3
+Groede,1150,99,4
+Leiden,2400,115,3
+Meerssen,1020,150,4
+Enschede,1125,57,4
+Meppel,1595,115,3
+Maastricht,1795,149,4
+Den,1550,77,2
+Bosch,3000,122,4
+Zwolle,415,11,1
+Helmond,1275,75,3
+Muiden,3250,118,5
+Amsterdam,3250,120,4
+Amsterdam,3150,101,4
+Amersfoort,1035,52,2
+Amsterdam,2700,59,3
+Enschede,525,20,1
+Amsterdam,3000,150,6
+Nieuwegein,1995,130,5
+Zaandam,2200,100,3
+Amsterdam,3500,164,4
+Gronsveld,1190,85,3
+Amstelveen,4250,179,6
+Vlissingen,1150,93,4
+Sneek,1650,175,7
+Amsterdam,2495,68,3
+Tilburg,1750,110,4
+Amsterdam,3000,90,3
+Den,1590,74,2
+Amstelveen,2950,127,4
+Rotterdam,1850,45,2
+Rotterdam,1375,20,1
+Den,3000,170,5
+Zaltbommel,1995,115,5
+Den,2150,94,4
+Heerlen,1200,90,4
+Schiedam,995,34,1
+Oudenbosch,655,58,2
+Amsterdam,4500,127,5
+Rotterdam,2295,106,4
+Eindhoven,1895,70,3
+Den,3500,148,5
+Almere,2300,136,4
+Grubbenvorst,1250,115,4
+Amsterdam,2200,57,2
+Rotterdam,1495,71,3
+Amsterdam,2250,58,2
+Maastricht,795,26,2
+Amsterdam,3500,110,4
+Amsterdam,3250,100,3
+Arnhem,1425,96,3
+Arnhem,575,35,1
+Hoofddorp,1450,80,3
+Den,2400,102,3
+Rotterdam,2190,90,3
+Arnhem,925,37,2
+Utrecht,2055,106,3
+Maasbracht,3450,261,8
+Den,4500,255,5
+Roosendaal,680,35,2
+Amsterdam,4250,120,5
+Amsterdam,2650,58,3
+Rotterdam,2190,135,4
+Weesp,2300,83,5
+Den,2195,112,3
+Aalst,1095,54,3
+Den,2750,82,3
+Bloemendaal,1995,123,2
+Den,2450,106,3
+Amsterdam,7500,140,3
+Hoofddorp,2250,69,2
+Amsterdam,2350,80,3
+Heerlen,1495,120,4
+Amsterdam,2650,140,7
+Grou,1150,129,4
+Roosendaal,585,29,2
+Amsterdam,2850,140,3
+Amsterdam,2750,95,3
+Den,2500,80,3
+Amsterdam,4250,147,4
+Amsterdam,2800,97,3
+Den,1625,81,3
+Den,1695,116,3
+Amstelveen,3850,120,5
+Den,2495,80,3
+Rotterdam,1995,95,3
+Rotterdam,995,24,1
+Leiden,3500,155,4
+Veldhoven,1450,75,3
+Amsterdam,2750,112,5
+Sittard,231,13,1
+Breda,2650,200,5
+Amsterdam,4250,120,5
+Den,1590,74,2
+Diemen,1075,77,2
+Diemen,1075,77,3
+Diemen,1075,77,4
+Diemen,1075,77,2
+Diemen,1075,77,3
+Diemen,1075,77,4
+Zwolle,971,43,2
+Zeist,1750,110,4
+Amsterdam,2750,110,3
+Amsterdam,4250,150,4
+Tilburg,425,13,1
+Amsterdam,2350,70,3
+Schoonloo,995,75,4
+Amsterdam,1850,90,4
+Rotterdam,1460,79,3
+Tilburg,655,21,1
+Tilburg,450,20,1
+Tilburg,495,22,1
+Rotterdam,1795,72,2
+Rotterdam,2195,80,3
+Almere,1495,72,2
+Amsterdam,4750,124,4
+Maastricht,2350,200,6
+Amsterdam,4500,215,6
+Amsterdam,2250,107,4
+Tilburg,1995,108,4
+Maastricht,1750,143,4
+Rijswijk,1183,103,3
+Capelle,2500,193,5
+Maassluis,1595,90,3
+Amsterdam,4250,120,5
+Amstelveen,2950,127,4
+Rotterdam,2495,142,4
+Rotterdam,2195,115,5
+Capelle,1700,115,2
+Almkerk,1350,70,2
+Almere,2168,92,4
+Oosterhout,2000,98,4
+Hoorn,1600,84,2
+Krimpen,2800,226,1
+Westerhoven,1295,78,3
+Lelystad,800,62,2
+Asten,1795,98,3
+Heerenveen,1200,105,4
+Maastricht,332,11,1
+Eindhoven,753,35,2
+Eindhoven,1850,90,4
+Zwolle,1650,102,4
+Amsterdam,2550,73,3
+Den,3200,131,4
+Leiden,2900,97,3
+Nijmegen,1800,99,4
+Den,5250,196,8
+Den,3000,91,3
+Harderwijk,986,45,2
+Kampen,950,90,2
+Zwolle,1395,124,3
+Groningen,1395,35,2
+Wijchen,1150,90,4
+Amsterdam,2450,43,3
+Amstelveen,2400,100,4
+Naarden,3500,155,6
+Den,1590,74,2
+Amsterdam,4250,120,5
+Amsterdam,4950,170,4
+Den,2250,61,3
+IJsselstein,3350,148,5
+Lelystad,3300,117,3
+Utrecht,2750,118,4
+Breda,1450,85,3
+Enschede,1100,36,2
+Amsterdam,2750,99,3
+Veldhoven,1525,65,3
+Amsterdam,5200,138,5
+Eindhoven,1510,84,3
+Rotterdam,2995,145,6
+Amsterdam,3750,122,4
+Amsterdam,6000,200,7
+Maastricht,1950,75,4
+Zaandam,2750,121,5
+Capelle,2550,143,3
+Breda,1350,65,3
+Utrecht,3150,145,4
+Breda,1500,104,2
+Middelburg,1075,125,3
+Delft,1850,105,4
+Sint-Michielsgestel,1650,135,5
+Amsterdam,2950,85,3
+Utrecht,1695,88,3
+Amersfoort,835,35,1
+Voorburg,425,30,1
+Zwolle,384,12,1
+Amsterdam,2100,136,4
+Amstelveen,2950,127,4
+Eindhoven,2295,140,4
+Amsterdam,2950,87,3
+Ridderkerk,1650,120,3
+Hoornaar,1850,100,3
+Rotterdam,2600,106,6
+Amsterdam,3250,98,4
+Den,995,70,3
+Lent,1695,152,4
+Hoofddorp,2850,102,3
+Kampen,1110,60,1
+Muiden,3250,130,4
+Beverwijk,1550,72,3
+Tilburg,3850,261,7
+Tilburg,1622,88,2
+Nieuwerkerk,1750,106,4
+Hilversum,2650,160,5
+Den,3125,91,3
+Rotterdam,3254,83,3
+Amsterdam,9900,231,5
+Amsterdam,3200,96,4
+Amsterdam,3750,130,3
+Leiden,2250,126,5
+Breda,2450,138,5
+Rotterdam,2500,136,3
+Deventer,1900,153,3
+Leiden,1995,75,3
+Den,2750,120,3
+Leiden,3250,114,3
+Leiden,2900,97,3
+Terhole,665,44,2
+Amsterdam,4250,120,5
+Eindhoven,2295,140,4
+Den,2400,145,3
+Den,1150,83,4
+Tilburg,1390,60,2
+Breda,2250,95,4
+Amsterdam,2950,55,3
+Middelburg,1385,74,3
+Harderwijk,3250,239,8
+Amstelveen,2950,127,4
+Capelle,2495,135,5
+Amstelveen,4500,190,4
+Delfgauw,2700,125,3
+Den,1450,70,3
+Almere,1950,110,5
+Zoeterwoude,615,9,1
+Nuenen,1800,125,4
+Veendam,950,110,5
+Rotterdam,2200,71,3
+Amsterdam,3250,95,3
+Haarlem,2845,93,3
+Leeuwarden,625,25,1
+Amsterdam,2750,58,3
+Reuver,1275,75,3
+Amsterdam,2900,117,4
+Den,3000,152,5
+Den,2400,103,3
+Den,2400,108,3
+Zoeterwoude,690,15,1
+Waalre,1500,120,4
+Eindhoven,1375,78,3
+Amsterdam,2750,76,3
+Amstelveen,2950,127,4
+Eindhoven,2295,140,4
+Apeldoorn,625,23,1
+Amsterdam,2900,78,3
+Delft,1500,45,3
+Beinsdorp,7000,248,6
+Rotterdam,1370,60,2
+Den,450,12,1
+Leiden,2250,100,3
+Culemborg,2100,146,5
+Apeldoorn,840,61,2
+Den,3500,120,4
+Delft,1600,65,2
+Rotterdam,1950,65,2
+Vlissingen,815,67,1
+Utrecht,2650,185,5
+Amsterdam,2750,75,2
+Amsterdam,8250,200,5
+Den,3600,160,6
+Den,3000,120,6
+Amsterdam,4950,190,6
+Amsterdam,6000,147,5
+Amsterdam,4500,91,5
+Berkel,3500,253,6
+Roosendaal,875,71,3
+Rotterdam,2600,85,3
+Amsterdam,4950,173,6
+Rotterdam,2195,105,3
+Haarlem,5995,220,6
+Amsterdam,2750,70,3
+Amsterdam,3000,72,4
+Den,1490,83,2
+Den,1590,74,2
+Amsterdam,4250,120,5
+Rotterdam,850,52,2
+Rotterdam,3600,137,4
+Amstelveen,1950,79,3
+Amstelveen,2500,130,5
+Groningen,2250,180,7
+Maastricht,1995,119,6
+Zutphen,1055,60,2
+Rotterdam,1995,105,5
+Den,2450,79,3
+Groningen,1150,36,2
+Amsterdam,2500,70,3
+Groningen,1550,55,2
+Amsterdam,2200,69,3
+Bergen,2000,89,3
+Eindhoven,1750,126,4
+Eindhoven,1700,60,2
+Utrecht,1650,38,2
+Maastricht,2650,95,2
+Roosendaal,1015,72,2
+Amstelveen,2250,114,4
+Breda,2500,127,5
+Amsterdam,4250,120,5
+Tilburg,921,37,1
+Den,862,26,1
+Eindhoven,1450,65,3
+Waalre,1495,86,3
+Maastricht,2050,136,4
+Tilburg,895,30,2
+Amsterdam,2950,111,4
+Amsterdam,2650,58,3
+Eindhoven,1850,138,4
+Amsterdam,2500,88,2
+Bunschoten-Spakenburg,1625,121,5
+Hendrik-Ido-Ambacht,2445,125,4
+Amsterdam,4500,223,5
+Eindhoven,1850,138,4
+Delft,1400,70,2
+Geldrop,2500,190,4
+Rotterdam,1995,82,2
+Den,2750,150,5
+Rotterdam,2395,91,3
+Roosendaal,1775,73,3
+Terheijden,1495,130,3
+Leeuwarden,1175,74,3
+Haarlem,2350,80,4
+Naarden,843,32,1
+Noordwijk,1495,86,4
+Lobith,300,70,2
+Hilversum,2750,105,4
+Laren,6500,197,4
+Huizen,3000,185,6
+Schaijk,985,40,3
+Rotterdam,1990,147,3
+Rotterdam,1495,35,2
+Amstelveen,2350,110,5
+Amsterdam,5500,114,3
+Amsterdam,2350,102,4
+Amsterdam,5500,174,6
+Amsterdam,3850,170,4
+Eindhoven,1600,73,2
+Rotterdam,2250,82,2
+Amstelveen,2950,127,4
+Amsterdam,4250,120,5
+Rotterdam,2300,103,4
+Rotterdam,2950,155,4
+Rotterdam,1995,81,2
+Nuenen,1995,118,4
+Almere,735,20,1
+Waalre,1700,82,4
+Amsterdam,2500,80,3
+Scherpenisse,1500,115,4
+Geleen,695,45,1
+Amsterdam,6000,313,7
+Amsterdam,7000,184,3
+Amsterdam,1950,85,3
+Zaandam,1995,95,3
+Alkmaar,1795,125,3
+Zoetermeer,1950,104,3
+Nijmegen,795,48,1
+Tilburg,2595,175,3
+Rotterdam,3250,190,4
+Eindhoven,2395,100,3
+Middelburg,1375,113,5
+Tilburg,825,18,1
+Utrecht,2500,88,3
+Breda,1195,86,3
+Goes,1900,122,5
+Hoogeveen,595,25,1
+Amsterdam,8500,240,7
+Rotterdam,3250,121,3
+Dronryp,845,60,2
+Mook,820,55,2
+Nijmegen,1750,100,4
+Amstelveen,2950,127,4
+Eindhoven,1850,138,4
+Wessem,290,35,2
+Assen,1450,130,4
+Oud-Beijerland,1950,77,3
+Winschoten,750,45,2
+Den,3995,170,4
+Delft,1400,45,2
+Delft,1250,30,1
+Heerlen,875,74,3
+Waalre,1495,88,3
+Amstelveen,3250,145,5
+Gouda,1500,89,4
+Bergen,1785,132,5
+Utrecht,2300,138,6
+Eindhoven,1700,103,3
+Lattrop-Breklenkamp,1295,150,7
+Leiden,2650,190,6
+Eindhoven,1975,123,5
+Eindhoven,1695,90,3
+Leeuwarden,925,60,3
+Amsterdam,2450,87,3
+Benthuizen,1750,123,4
+Dronten,1550,118,5
+Amsterdam,2850,92,3
+Heerlen,140,25,1
+Amsterdam,3250,105,4
+Almere,3000,187,7
+Amstelveen,4500,179,6
+Eindhoven,1850,138,4
+Amstelveen,2950,127,4
+Rotterdam,2100,93,3
+Amsterdam,1900,45,2
+Leiden,1405,50,2
+Schinnen,3500,264,7
+Den,2250,131,4
+Gouda,1495,90,2
+Purmerend,2200,126,6
+Delft,1400,30,2
+Hoensbroek,230,13,9
+Tilburg,1175,64,2
+Bergen,875,60,5
+Purmerend,2150,124,4
+Amstelveen,2500,95,3
+Eindhoven,1700,60,2
+Den,2495,91,4
+Sint-Annaland,1250,95,2
+Maastricht,2550,130,6
+Eindhoven,1700,54,2
+Amsterdam,2650,92,3
+Amsterdam,3750,120,4
+Arnhem,920,25,1
+Arnhem,1195,31,2
+Amsterdam,1950,65,2
+Rotterdam,2300,125,3
+Apeldoorn,948,93,4
+Den,775,32,2
+Eindhoven,2295,140,4
+Amsterdam,4000,132,5
+Amsterdam,1750,57,2
+Amsterdam,5000,144,4
+Eindhoven,1850,138,4
+Amstelveen,2950,127,4
+Groningen,1350,66,2
+Rotterdam,3300,200,6
+Amsterdam,2999,148,5
+Den,2300,100,3
+Den,1225,42,3
+Arnhem,1450,90,3
+Amsterdam,2550,92,2
+Asten,1425,117,5
+Amsterdam,2200,55,3
+Amsterdam,1659,50,1
+Breda,2375,150,6
+Katwijk,1850,97,4
+Den,750,26,2
+Den,750,29,1
+Den,3650,200,3
+Den,4500,201,8
+Den,1480,50,3
+Utrecht,1995,140,5
+Den,1000,37,2
+Den,450,13,1
+Veldhoven,1850,88,5
+Eindhoven,2750,150,5
+Leiden,2150,70,3
+Eindhoven,2500,103,3
+Aarle-Rixtel,2750,215,6
+Hilversum,1600,39,2
+Leeuwarden,850,63,2
+Hilversum,2950,146,4
+Valkenburg,1590,120,4
+Hilversum,2500,138,6
+Amsterdam,4250,120,5
+Amsterdam,2650,58,3
+Hilversum,2850,118,5
+Westernieland,1350,80,3
+Best,1650,102,5
+Fijnaart,1225,116,4
+Maastricht,1600,70,2
+Den,375,8,1
+Veldhoven,1475,70,3
+Velden,1250,84,3
+Den,595,16,1
+Barendrecht,1750,98,3
+Den,695,12,1
+Den,1075,31,2
+Amsterdam,2750,100,4
+Roermond,780,53,2
+Den,730,21,2
+Eindhoven,2350,117,5
+Amsterdam,2100,90,3
+Eindhoven,2295,135,5
+Veldhoven,1795,112,5
+Roermond,1057,65,2
+Breda,1375,65,3
+Eersel,3500,152,4
+Amsterdam,3500,81,3
+Amsterdam,3500,150,3
+Prinsenbeek,2595,180,6
+Rotterdam,1895,79,2
+Den,2395,95,3
+Leiden,2320,121,3
+Amsterdam,1890,73,2
+Amsterdam,3750,169,4
+Eindhoven,1850,138,4
+Amstelveen,2950,127,4
+Den,2400,158,4
+Den,1775,80,3
+Eindhoven,1495,85,3
+Den,2350,100,3
+Voorburg,2500,160,5
+Amsterdam,2850,95,3
+Amsterdam,3000,112,4
+Eindhoven,1600,94,3
+Den,2500,85,3
+Amsterdam,3250,75,3
+Nuth,1350,108,5
+De,1350,70,3
+Muiderberg,2100,109,4
+Muiderberg,3000,140,6
+Heemstede,4250,160,7
+Den,2300,128,4
+Maastricht,1595,120,6
+Amsterdam,4250,180,4
+Amsterdam,4000,167,3
+Tilburg,1150,60,3
+Deventer,1295,111,4
+Rotterdam,1995,72,3
+Den,1350,121,5
+Julianadorp,2199,186,5
+Amstelveen,2550,104,3
+Middenbeemster,1995,140,4
+Amsterdam,1892,86,4
+Amsterdam,1731,81,3
+Haarlem,1665,88,3
+Haarlem,1590,91,3
+Amsterdam,4250,120,5
+Eindhoven,1850,138,4
+Amsterdam,1728,74,3
+Amsterdam,4700,162,3
+Horst,1090,110,3
+Eindhoven,1850,112,3
+Stadskanaal,570,20,1
+Genemuiden,1500,127,4
+Eijsden,820,30,1
+Den,7500,283,5
+Almere,2775,180,4
+Enschede,1900,102,4
+Amsterdam,2750,95,3
+Eindhoven,2200,127,4
+Amsterdam,10000,207,3
+Leiden,1950,75,3
+Bussum,1650,85,3
+Weurt,2000,150,6
+Etten-Leur,290,30,1
+Leeuwarden,610,20,1
+Tilburg,725,20,1
+Amsterdam,3500,163,5
+Amstelveen,2650,100,3
+Veldhoven,1700,100,3
+Utrecht,1495,60,2
+Almere,2900,223,4
+Abcoude,2800,116,4
+Eindhoven,1695,115,4
+Rotterdam,2000,70,3
+Den,2200,95,3
+Katwijk,1150,55,2
+Velp,585,14,1
+Eindhoven,2295,140,4
+Amstelveen,2950,127,4
+Maastricht,1500,47,2
+Gaanderen,870,55,2
+Rotterdam,2050,91,3
+Rotterdam,1495,100,4
+Amsterdam,4250,132,4
+Heemstede,1400,97,3
+Bergen,745,25,1
+Utrecht,2500,116,3
+Amsterdam,3750,130,4
+Budel,1470,112,5
+Den,2750,136,4
+Amsterdam,2100,56,2
+Haarlem,1930,92,3
+Amsterdam,4500,174,6
+Den,2000,78,3
+Hoorn,2150,87,3
+Duiven,1071,68,3
+Hengelo,716,41,1
+Capelle,4500,158,6
+Amsterdam,2900,140,4
+Harderwijk,1215,43,2
+Eindhoven,1200,65,2
+Valkenswaard,1350,120,3
+Leeuwarden,1595,70,2
+Amsterdam,9500,296,6
+Valkenswaard,2795,174,3
+Rotterdam,3490,144,4
+Rotterdam,1750,92,3
+Roermond,1175,65,3
+Eindhoven,1850,138,4
+Amstelveen,2950,127,4
+Amsterdam,2450,90,1
+Eindhoven,1995,120,4
+Roosendaal,945,78,2
+Katwijk,1295,70,2
+Almere,3200,145,5
+Amsterdam,2850,126,3
+Voorst,400,70,3
+Amsterdam,2600,68,3
+Oudeschoot,327,13,1
+Scherpenisse,1700,85,2
+Den,1995,36,2
+Wassenaar,7750,460,9
+Geldrop,1750,94,3
+Zaandam,1845,90,3
+Rotterdam,2500,91,3
+Leeuwarden,879,40,2
+Amsterdam,3750,140,4
+Amersfoort,1225,71,2
+Hilversum,2700,131,6
+Almere,1450,70,3
+Eindhoven,2100,130,3
+Eindhoven,1875,93,4
+Leiden,1850,85,3
+Tilburg,1750,125,3
+Weert,765,35,2
+Den,3156,68,3
+Den,3236,101,3
+Rotterdam,3495,89,3
+Amsterdam,2700,75,2
+Arnhem,1195,33,2
+Eindhoven,2295,140,4
+Eindhoven,1850,138,4
+Hilversum,1425,55,3
+Arnhem,1195,32,2
+Eindhoven,1340,57,2
+Amsterdam,4850,140,4
+Emmen,1650,115,3
+Etten-Leur,1445,80,3
+Nijmegen,1250,80,2
+Rotterdam,2495,124,5
+Rotterdam,4700,238,7
+Ruinerwold,2950,350,6
+Den,2450,118,4
+Amsterdam,2750,87,2
+Eindhoven,1745,69,3
+Tilburg,1550,90,3
+Rotterdam,2750,84,3
+Amsterdam,3495,134,5
+Rotterdam,2950,100,3
+Amsterdam,3850,144,3
+Leiden,1750,63,1
+Eerbeek,550,70,2
+Eindhoven,1795,90,5
+Vijlen,1175,94,5
+Galder,1850,114,4
+Rotterdam,2650,81,3
+Noordwijkerhout,3250,210,7
+Leiden,2250,120,4
+Sittard,600,30,2
+Rotterdam,1595,88,3
+Amstelveen,4650,199,4
+Rotterdam,2400,50,4
+Amsterdam,2650,58,3
+Eindhoven,1850,138,4
+Haarlem,3150,81,3
+Steenbergen,1575,130,5
+Eindhoven,1780,97,3
+Breda,1500,73,3
+Amsterdam,6000,175,5
+Amsterdam,4200,125,4
+Wassenaar,3250,149,6
+Amsterdam,2700,75,3
+Roermond,1350,68,4
+Maastricht,2150,65,1
+Maastricht,1950,90,3
+Den,1700,82,4
+Maastricht,2000,55,1
+Maastricht,1950,135,4
+Amsterdam,2250,60,2
+Helmond,353,63,2
+Almere,3000,162,4
+Eindhoven,1600,79,3
+Eindhoven,1600,95,3
+Den,2595,100,5
+Almere,1850,109,3
+Den,2750,135,4
+Den,2495,108,4
+Oirschot,900,59,3
+Maastricht,1800,95,3
+Heerlen,675,65,2
+Arnhem,1425,100,3
+Rotterdam,6000,261,5
+Den,1325,61,3
+Eindhoven,2225,120,4
+Amsterdam,4250,120,5
+Eindhoven,2295,140,4
+Maastricht,1850,162,5
+Utrecht,1800,45,3
+Utrecht,1950,75,3
+Weert,1288,80,3
+Zuidland,2000,90,3
+Rotterdam,1595,77,3
+Valkenburg,750,30,2
+Arnhem,2200,120,2
+Almere,1750,40,2
+Almere,1850,48,2
+Almere,1950,65,2
+Almere,1650,35,2
+Amsterdam,2150,55,2
+Den,1965,45,2
+Arnhem,2250,150,6
+Rotterdam,1600,103,4
+Maastricht,2500,140,3
+Koog,1750,60,3
+Nieuw-Vennep,3150,167,6
+Amsterdam,11000,327,9
+Wassenaar,2365,115,3
+Rotterdam,1650,65,1
+Brummen,850,72,2
+Den,1900,75,4
+Rotterdam,1610,75,3
+Rotterdam,1975,91,3
+Sittard,1350,130,4
+Amsterdam,4000,68,3
+Delft,3500,170,6
+Eindhoven,2295,140,4
+Amsterdam,2650,58,3
+Purmerend,2500,160,5
+Capelle,1028,56,2
+Den,2500,113,4
+Arnhem,1900,160,3
+Helmond,1750,106,4
+Schiedam,1850,70,2
+Rotterdam,1250,66,3
+Rotterdam,1100,39,2
+Amsterdam,3750,90,3
+Den,3950,191,5
+Leimuiden,8700,264,6
+Amsterdam,2400,92,3
+Voorburg,1055,49,2
+Amsterdam,2595,100,3
+Amsterdam,2400,70,4
+Oirschot,2250,75,2
+Rijswijk,1600,105,4
+Rotterdam,1250,55,2
+Eindhoven,1850,80,3
+Bergen,1975,103,3
+Maastricht,2495,105,3
+Amsterdam,2750,90,3
+Utrecht,2395,85,3
+Valkenswaard,1575,101,4
+Hoofddorp,2250,82,4
+Den,2795,119,3
+Kerkrade,650,53,3
+Amsterdam,2995,115,3
+Maastricht,575,21,1
+Amsterdam,9500,258,7
+Den,1590,74,2
+Eindhoven,2295,140,4
+Maastricht,500,10,1
+Amsterdam,2300,65,2
+Amstelveen,2250,100,3
+Amsterdam,3250,143,4
+Tilburg,1245,52,2
+Dordrecht,1995,100,5
+Den,1516,95,3
+Dordrecht,1700,69,3
+Amsterdam,3000,98,3
+Amsterdam,4500,127,4
+De,1350,116,2
+Rotterdam,2450,109,3
+Amsterdam,2200,69,3
+Bergen,5750,310,5
+Ermelo,950,54,3
+Den,2195,180,3
+Schiedam,2225,146,5
+Rotterdam,2400,124,5
+Capelle,3250,147,5
+Amstelveen,2500,98,5
+Amsterdam,2100,50,2
+Den,1575,57,2
+Maastricht,1270,85,3
+Maarssen,1400,74,3
+Bedum,1400,59,3
+Bedum,1200,45,2
+Den,975,46,2
+Bedum,1200,50,2
+Eindhoven,1320,32,2
+Eindhoven,2500,103,3
+Amsterdam,2650,58,3
+Amstelveen,2950,127,4
+Leiden,2300,72,3
+Hoogeloon,1850,130,4
+Arnhem,2000,96,3
+Rotterdam,2750,92,3
+Eindhoven,1650,84,3
+Amstelveen,2300,135,5
+Utrecht,995,30,1
+Eindhoven,2575,139,5
+Amsterdam,2600,68,3
+Bosch,3450,360,4
+Amsterdam,2475,95,3
+Brunssum,592,17,1
+Den,3950,150,4
+Groningen,1050,56,3
+Noordwijkerhout,3499,138,5
+Helmond,1700,116,6
+Amsterdam,3500,142,5
+Rotterdam,2295,85,3
+Dordrecht,2950,115,4
+Haarlem,5000,190,6
+Amsterdam,2650,76,3
+Veghel,1675,97,3
+Heerlen,380,20,3
+Blaricum,8750,468,8
+Amsterdam,2000,122,2
+Eindhoven,1995,161,4
+Almere,1800,102,4
+Leiderdorp,1650,75,3
+Amsterdam,3150,111,3
+Leiden,885,53,2
